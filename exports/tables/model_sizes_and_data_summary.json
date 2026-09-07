@@ -1,0 +1,47 @@
+{
+  "final_models": {
+    "compact_inference_model": {
+      "file_name": "bad_apple_inference_only.pt",
+      "contents": "h0, c0, ctf_state_dict, fd_state_dict, config, metadata",
+      "purpose": "Lightweight autonomous video rollout & frame decoding",
+      "total_parameters": 417001,
+      "weights_fp32_bytes": 1668004,
+      "weights_fp32_mb": 1.59,
+      "file_size_on_disk_mb": 1.6
+    },
+    "complete_resumable_model": {
+      "file_name": "bad_apple_complete_training.pt",
+      "contents": "epoch, loss, h0, c0, tte, ctf, fd, optimizer_adam, optimizer_muon, scaler, config",
+      "purpose": "Complete training checkpoint enabling seamless training resumption",
+      "total_parameters": 1258345,
+      "weights_fp32_bytes": 5033380,
+      "weights_fp32_mb": 4.8,
+      "file_size_on_disk_mb": 14.37
+    }
+  },
+  "training_data_size": {
+    "num_frames": 6573,
+    "resolution": "384 x 512 (Height x Width)",
+    "channels": 1,
+    "color_space": "Grayscale uint8",
+    "raw_dataset_bytes": 1292304384,
+    "raw_dataset_size_mb": 1232.44,
+    "raw_dataset_size_gb": 1.204,
+    "compressed_zip_size_mb": 19.43,
+    "source_video_size_mb": 19.54,
+    "extracted_png_frames_size_mb": 70.2
+  },
+  "output_size": {
+    "frame_height": 384,
+    "frame_width": 512,
+    "channels": 1,
+    "output_tensor_shape": "[1, 384, 512]",
+    "framerate_fps": 30,
+    "total_video_frames": 6573,
+    "duration_seconds": 219.1,
+    "duration_formatted": "3m 39.1s",
+    "uncompressed_video_stream_bytes": 1292304384,
+    "uncompressed_video_stream_gb": 1.204,
+    "rendered_mp4_file_size_mb": 18.87
+  }
+}

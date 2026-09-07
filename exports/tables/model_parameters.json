@@ -1,0 +1,291 @@
+[
+  {
+    "module": "TrainingTableEmbeddings",
+    "parameter_name": "h_table.weight",
+    "shape": [
+      6573,
+      64
+    ],
+    "num_elements": 420672,
+    "dtype": "float32"
+  },
+  {
+    "module": "TrainingTableEmbeddings",
+    "parameter_name": "c_table.weight",
+    "shape": [
+      6573,
+      64
+    ],
+    "num_elements": 420672,
+    "dtype": "float32"
+  },
+  {
+    "module": "CustomTransitionFunction",
+    "parameter_name": "W_hf.weight",
+    "shape": [
+      64,
+      64
+    ],
+    "num_elements": 4096,
+    "dtype": "float32"
+  },
+  {
+    "module": "CustomTransitionFunction",
+    "parameter_name": "W_hf.bias",
+    "shape": [
+      64
+    ],
+    "num_elements": 64,
+    "dtype": "float32"
+  },
+  {
+    "module": "CustomTransitionFunction",
+    "parameter_name": "W_hi.weight",
+    "shape": [
+      64,
+      64
+    ],
+    "num_elements": 4096,
+    "dtype": "float32"
+  },
+  {
+    "module": "CustomTransitionFunction",
+    "parameter_name": "W_hi.bias",
+    "shape": [
+      64
+    ],
+    "num_elements": 64,
+    "dtype": "float32"
+  },
+  {
+    "module": "CustomTransitionFunction",
+    "parameter_name": "W_ho.weight",
+    "shape": [
+      64,
+      64
+    ],
+    "num_elements": 4096,
+    "dtype": "float32"
+  },
+  {
+    "module": "CustomTransitionFunction",
+    "parameter_name": "W_ho.bias",
+    "shape": [
+      64
+    ],
+    "num_elements": 64,
+    "dtype": "float32"
+  },
+  {
+    "module": "CustomTransitionFunction",
+    "parameter_name": "W_hg.weight",
+    "shape": [
+      64,
+      64
+    ],
+    "num_elements": 4096,
+    "dtype": "float32"
+  },
+  {
+    "module": "CustomTransitionFunction",
+    "parameter_name": "W_hg.bias",
+    "shape": [
+      64
+    ],
+    "num_elements": 64,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "projection.weight",
+    "shape": [
+      6144,
+      64
+    ],
+    "num_elements": 393216,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "projection.bias",
+    "shape": [
+      6144
+    ],
+    "num_elements": 6144,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block1.depthwise.weight",
+    "shape": [
+      8,
+      1,
+      3,
+      3
+    ],
+    "num_elements": 72,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block1.pointwise.weight",
+    "shape": [
+      16,
+      8,
+      1,
+      1
+    ],
+    "num_elements": 128,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block1.pointwise.bias",
+    "shape": [
+      16
+    ],
+    "num_elements": 16,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block1.norm.weight",
+    "shape": [
+      16
+    ],
+    "num_elements": 16,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block1.norm.bias",
+    "shape": [
+      16
+    ],
+    "num_elements": 16,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block2.depthwise.weight",
+    "shape": [
+      16,
+      1,
+      3,
+      3
+    ],
+    "num_elements": 144,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block2.pointwise.weight",
+    "shape": [
+      16,
+      16,
+      1,
+      1
+    ],
+    "num_elements": 256,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block2.pointwise.bias",
+    "shape": [
+      16
+    ],
+    "num_elements": 16,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block2.norm.weight",
+    "shape": [
+      16
+    ],
+    "num_elements": 16,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block2.norm.bias",
+    "shape": [
+      16
+    ],
+    "num_elements": 16,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block3.depthwise.weight",
+    "shape": [
+      16,
+      1,
+      3,
+      3
+    ],
+    "num_elements": 144,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block3.pointwise.weight",
+    "shape": [
+      8,
+      16,
+      1,
+      1
+    ],
+    "num_elements": 128,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block3.pointwise.bias",
+    "shape": [
+      8
+    ],
+    "num_elements": 8,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block3.norm.weight",
+    "shape": [
+      8
+    ],
+    "num_elements": 8,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "block3.norm.bias",
+    "shape": [
+      8
+    ],
+    "num_elements": 8,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "output.weight",
+    "shape": [
+      1,
+      8,
+      1,
+      1
+    ],
+    "num_elements": 8,
+    "dtype": "float32"
+  },
+  {
+    "module": "FrameDecoder",
+    "parameter_name": "output.bias",
+    "shape": [
+      1
+    ],
+    "num_elements": 1,
+    "dtype": "float32"
+  }
+]

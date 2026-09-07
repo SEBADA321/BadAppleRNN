@@ -1,0 +1,650 @@
+Epoch 000 | K=   2 | Batch=170 | Loss=0.689003 | Recon=0.688925 | DynH=0.000318 | DynC=0.000465
+Epoch 001 | K=   2 | Batch=170 | Loss=0.650758 | Recon=0.650680 | DynH=0.000304 | DynC=0.000468
+Epoch 002 | K=   2 | Batch=170 | Loss=0.484680 | Recon=0.484605 | DynH=0.000312 | DynC=0.000441
+Epoch 003 | K=   2 | Batch=170 | Loss=0.399444 | Recon=0.399368 | DynH=0.000318 | DynC=0.000448
+Epoch 004 | K=   2 | Batch=170 | Loss=0.336385 | Recon=0.336306 | DynH=0.000325 | DynC=0.000459
+Epoch 005 | K=   2 | Batch=170 | Loss=0.284120 | Recon=0.284040 | DynH=0.000335 | DynC=0.000467
+Epoch 006 | K=   2 | Batch=170 | Loss=0.244378 | Recon=0.244297 | DynH=0.000336 | DynC=0.000473
+Epoch 007 | K=   2 | Batch=170 | Loss=0.210485 | Recon=0.210403 | DynH=0.000340 | DynC=0.000485
+Epoch 008 | K=   2 | Batch=170 | Loss=0.188009 | Recon=0.187926 | DynH=0.000341 | DynC=0.000497
+Epoch 009 | K=   2 | Batch=170 | Loss=0.172888 | Recon=0.172802 | DynH=0.000343 | DynC=0.000513
+Epoch 010 | K=   2 | Batch=170 | Loss=0.160265 | Recon=0.160179 | DynH=0.000344 | DynC=0.000521
+Epoch 011 | K=   2 | Batch=170 | Loss=0.151356 | Recon=0.151269 | DynH=0.000342 | DynC=0.000534
+Epoch 012 | K=   2 | Batch=170 | Loss=0.142376 | Recon=0.142288 | DynH=0.000342 | DynC=0.000537
+Epoch 013 | K=   2 | Batch=170 | Loss=0.135815 | Recon=0.135727 | DynH=0.000342 | DynC=0.000547
+Epoch 014 | K=   2 | Batch=170 | Loss=0.129337 | Recon=0.129248 | DynH=0.000336 | DynC=0.000555
+Epoch 015 | K=   2 | Batch=170 | Loss=0.122769 | Recon=0.122679 | DynH=0.000337 | DynC=0.000562
+Epoch 016 | K=   2 | Batch=170 | Loss=0.117770 | Recon=0.117679 | DynH=0.000336 | DynC=0.000567
+Epoch 017 | K=   2 | Batch=170 | Loss=0.114024 | Recon=0.113933 | DynH=0.000333 | DynC=0.000575
+Epoch 018 | K=   2 | Batch=170 | Loss=0.112738 | Recon=0.112646 | DynH=0.000335 | DynC=0.000586
+Epoch 019 | K=   2 | Batch=170 | Loss=0.108131 | Recon=0.108039 | DynH=0.000332 | DynC=0.000587
+Epoch 020 | K=   2 | Batch=170 | Loss=0.105743 | Recon=0.105651 | DynH=0.000331 | DynC=0.000592
+Epoch 021 | K=   2 | Batch=170 | Loss=0.103938 | Recon=0.103844 | DynH=0.000331 | DynC=0.000610
+Epoch 022 | K=   2 | Batch=170 | Loss=0.099136 | Recon=0.099043 | DynH=0.000328 | DynC=0.000603
+Epoch 023 | K=   2 | Batch=170 | Loss=0.097675 | Recon=0.097580 | DynH=0.000328 | DynC=0.000615
+Epoch 024 | K=   2 | Batch=170 | Loss=0.099352 | Recon=0.099257 | DynH=0.000327 | DynC=0.000624
+Epoch 025 | K=   2 | Batch=170 | Loss=0.094408 | Recon=0.094314 | DynH=0.000323 | DynC=0.000621
+Epoch 026 | K=   2 | Batch=170 | Loss=0.093856 | Recon=0.093760 | DynH=0.000323 | DynC=0.000633
+Epoch 027 | K=   2 | Batch=170 | Loss=0.091308 | Recon=0.091212 | DynH=0.000319 | DynC=0.000636
+Epoch 028 | K=   2 | Batch=170 | Loss=0.089769 | Recon=0.089673 | DynH=0.000319 | DynC=0.000641
+Epoch 029 | K=   2 | Batch=170 | Loss=0.089201 | Recon=0.089104 | DynH=0.000320 | DynC=0.000651
+Epoch 030 | K=   2 | Batch=170 | Loss=0.088182 | Recon=0.088085 | DynH=0.000317 | DynC=0.000657
+Epoch 031 | K=   2 | Batch=170 | Loss=0.086706 | Recon=0.086607 | DynH=0.000320 | DynC=0.000665
+Epoch 032 | K=   2 | Batch=170 | Loss=0.087257 | Recon=0.087159 | DynH=0.000314 | DynC=0.000664
+Epoch 033 | K=   2 | Batch=170 | Loss=0.084766 | Recon=0.084667 | DynH=0.000317 | DynC=0.000673
+Epoch 034 | K=   2 | Batch=170 | Loss=0.083686 | Recon=0.083587 | DynH=0.000314 | DynC=0.000675
+Epoch 035 | K=   2 | Batch=170 | Loss=0.082700 | Recon=0.082600 | DynH=0.000312 | DynC=0.000684
+Epoch 036 | K=   2 | Batch=170 | Loss=0.082517 | Recon=0.082418 | DynH=0.000309 | DynC=0.000683
+Epoch 037 | K=   2 | Batch=170 | Loss=0.081863 | Recon=0.081763 | DynH=0.000308 | DynC=0.000686
+Epoch 038 | K=   2 | Batch=170 | Loss=0.080676 | Recon=0.080575 | DynH=0.000311 | DynC=0.000699
+Epoch 039 | K=   2 | Batch=170 | Loss=0.080458 | Recon=0.080357 | DynH=0.000306 | DynC=0.000702
+Epoch 040 | K=   2 | Batch=170 | Loss=0.079332 | Recon=0.079230 | DynH=0.000307 | DynC=0.000707
+Epoch 041 | K=   2 | Batch=170 | Loss=0.078869 | Recon=0.078767 | DynH=0.000307 | DynC=0.000715
+Epoch 042 | K=   2 | Batch=170 | Loss=0.076438 | Recon=0.076335 | DynH=0.000309 | DynC=0.000718
+Epoch 043 | K=   2 | Batch=170 | Loss=0.077052 | Recon=0.076949 | DynH=0.000307 | DynC=0.000726
+Epoch 044 | K=   2 | Batch=170 | Loss=0.076911 | Recon=0.076807 | DynH=0.000305 | DynC=0.000729
+Epoch 045 | K=   2 | Batch=170 | Loss=0.075955 | Recon=0.075851 | DynH=0.000304 | DynC=0.000738
+Epoch 046 | K=   2 | Batch=170 | Loss=0.076323 | Recon=0.076218 | DynH=0.000304 | DynC=0.000744
+Epoch 047 | K=   2 | Batch=170 | Loss=0.074072 | Recon=0.073968 | DynH=0.000301 | DynC=0.000744
+Epoch 048 | K=   2 | Batch=170 | Loss=0.074180 | Recon=0.074074 | DynH=0.000306 | DynC=0.000757
+Epoch 049 | K=   2 | Batch=170 | Loss=0.074332 | Recon=0.074226 | DynH=0.000304 | DynC=0.000761
+Epoch 050 | K=   4 | Batch=102 | Loss=0.103113 | Recon=0.102962 | DynH=0.000417 | DynC=0.001091
+Epoch 051 | K=   4 | Batch=102 | Loss=0.099189 | Recon=0.099049 | DynH=0.000422 | DynC=0.000976
+Epoch 052 | K=   4 | Batch=102 | Loss=0.097297 | Recon=0.097159 | DynH=0.000426 | DynC=0.000960
+Epoch 053 | K=   4 | Batch=102 | Loss=0.095893 | Recon=0.095752 | DynH=0.000430 | DynC=0.000979
+Epoch 054 | K=   4 | Batch=102 | Loss=0.090708 | Recon=0.090568 | DynH=0.000431 | DynC=0.000972
+Epoch 055 | K=   4 | Batch=102 | Loss=0.090594 | Recon=0.090449 | DynH=0.000441 | DynC=0.001016
+Epoch 056 | K=   4 | Batch=102 | Loss=0.089788 | Recon=0.089642 | DynH=0.000443 | DynC=0.001022
+Epoch 057 | K=   4 | Batch=102 | Loss=0.086470 | Recon=0.086320 | DynH=0.000448 | DynC=0.001051
+Epoch 058 | K=   4 | Batch=102 | Loss=0.084803 | Recon=0.084651 | DynH=0.000454 | DynC=0.001070
+Epoch 059 | K=   4 | Batch=102 | Loss=0.084089 | Recon=0.083935 | DynH=0.000464 | DynC=0.001076
+Epoch 060 | K=   4 | Batch=102 | Loss=0.083612 | Recon=0.083457 | DynH=0.000464 | DynC=0.001083
+Epoch 061 | K=   4 | Batch=102 | Loss=0.082001 | Recon=0.081843 | DynH=0.000470 | DynC=0.001110
+Epoch 062 | K=   4 | Batch=102 | Loss=0.081904 | Recon=0.081744 | DynH=0.000476 | DynC=0.001128
+Epoch 063 | K=   4 | Batch=102 | Loss=0.082698 | Recon=0.082536 | DynH=0.000481 | DynC=0.001136
+Epoch 064 | K=   4 | Batch=102 | Loss=0.080727 | Recon=0.080562 | DynH=0.000491 | DynC=0.001161
+Epoch 065 | K=   4 | Batch=102 | Loss=0.079985 | Recon=0.079817 | DynH=0.000498 | DynC=0.001186
+Epoch 066 | K=   4 | Batch=102 | Loss=0.077890 | Recon=0.077723 | DynH=0.000495 | DynC=0.001176
+Epoch 067 | K=   4 | Batch=102 | Loss=0.079781 | Recon=0.079610 | DynH=0.000504 | DynC=0.001209
+Epoch 068 | K=   4 | Batch=102 | Loss=0.076810 | Recon=0.076640 | DynH=0.000505 | DynC=0.001201
+Epoch 069 | K=   4 | Batch=102 | Loss=0.078959 | Recon=0.078785 | DynH=0.000513 | DynC=0.001223
+Epoch 070 | K=   4 | Batch=102 | Loss=0.076003 | Recon=0.075830 | DynH=0.000514 | DynC=0.001222
+Epoch 071 | K=   4 | Batch=102 | Loss=0.078136 | Recon=0.077956 | DynH=0.000531 | DynC=0.001266
+Epoch 072 | K=   4 | Batch=102 | Loss=0.075008 | Recon=0.074828 | DynH=0.000534 | DynC=0.001263
+Epoch 073 | K=   4 | Batch=102 | Loss=0.074797 | Recon=0.074615 | DynH=0.000538 | DynC=0.001282
+Epoch 074 | K=   4 | Batch=102 | Loss=0.075889 | Recon=0.075705 | DynH=0.000540 | DynC=0.001294
+Epoch 075 | K=   4 | Batch=102 | Loss=0.074495 | Recon=0.074309 | DynH=0.000546 | DynC=0.001317
+Epoch 076 | K=   4 | Batch=102 | Loss=0.072981 | Recon=0.072796 | DynH=0.000547 | DynC=0.001304
+Epoch 077 | K=   4 | Batch=102 | Loss=0.073752 | Recon=0.073562 | DynH=0.000557 | DynC=0.001338
+Epoch 078 | K=   4 | Batch=102 | Loss=0.075196 | Recon=0.075004 | DynH=0.000561 | DynC=0.001361
+Epoch 079 | K=   4 | Batch=102 | Loss=0.074463 | Recon=0.074268 | DynH=0.000573 | DynC=0.001375
+Epoch 080 | K=   4 | Batch=102 | Loss=0.074516 | Recon=0.074319 | DynH=0.000578 | DynC=0.001399
+Epoch 081 | K=   4 | Batch=102 | Loss=0.073100 | Recon=0.072905 | DynH=0.000568 | DynC=0.001381
+Epoch 082 | K=   4 | Batch=102 | Loss=0.072255 | Recon=0.072055 | DynH=0.000586 | DynC=0.001413
+Epoch 083 | K=   4 | Batch=102 | Loss=0.072588 | Recon=0.072385 | DynH=0.000589 | DynC=0.001437
+Epoch 084 | K=   4 | Batch=102 | Loss=0.071299 | Recon=0.071094 | DynH=0.000597 | DynC=0.001456
+Epoch 085 | K=   4 | Batch=102 | Loss=0.071424 | Recon=0.071219 | DynH=0.000595 | DynC=0.001459
+Epoch 086 | K=   4 | Batch=102 | Loss=0.070355 | Recon=0.070147 | DynH=0.000608 | DynC=0.001478
+Epoch 087 | K=   4 | Batch=102 | Loss=0.071265 | Recon=0.071059 | DynH=0.000599 | DynC=0.001467
+Epoch 088 | K=   4 | Batch=102 | Loss=0.069023 | Recon=0.068812 | DynH=0.000611 | DynC=0.001495
+Epoch 089 | K=   4 | Batch=102 | Loss=0.069675 | Recon=0.069461 | DynH=0.000620 | DynC=0.001527
+Epoch 090 | K=   4 | Batch=102 | Loss=0.069390 | Recon=0.069172 | DynH=0.000626 | DynC=0.001548
+Epoch 091 | K=   4 | Batch=102 | Loss=0.069690 | Recon=0.069472 | DynH=0.000628 | DynC=0.001555
+Epoch 092 | K=   4 | Batch=102 | Loss=0.069238 | Recon=0.069019 | DynH=0.000628 | DynC=0.001563
+Epoch 093 | K=   4 | Batch=102 | Loss=0.068087 | Recon=0.067867 | DynH=0.000636 | DynC=0.001566
+Epoch 094 | K=   4 | Batch=102 | Loss=0.068382 | Recon=0.068159 | DynH=0.000641 | DynC=0.001588
+Epoch 095 | K=   4 | Batch=102 | Loss=0.068109 | Recon=0.067887 | DynH=0.000637 | DynC=0.001577
+Epoch 096 | K=   4 | Batch=102 | Loss=0.069116 | Recon=0.068885 | DynH=0.000662 | DynC=0.001645
+Epoch 097 | K=   4 | Batch=102 | Loss=0.066998 | Recon=0.066768 | DynH=0.000655 | DynC=0.001637
+Epoch 098 | K=   4 | Batch=102 | Loss=0.067145 | Recon=0.066914 | DynH=0.000661 | DynC=0.001646
+Epoch 099 | K=   4 | Batch=102 | Loss=0.067050 | Recon=0.066817 | DynH=0.000669 | DynC=0.001665
+Epoch 100 | K=   8 | Batch= 56 | Loss=0.116863 | Recon=0.116510 | DynH=0.001078 | DynC=0.002446
+Epoch 101 | K=   8 | Batch= 56 | Loss=0.104897 | Recon=0.104582 | DynH=0.001083 | DynC=0.002063
+Epoch 102 | K=   8 | Batch= 56 | Loss=0.099542 | Recon=0.099227 | DynH=0.001093 | DynC=0.002062
+Epoch 103 | K=   8 | Batch= 56 | Loss=0.091676 | Recon=0.091362 | DynH=0.001076 | DynC=0.002057
+Epoch 104 | K=   8 | Batch= 56 | Loss=0.090876 | Recon=0.090556 | DynH=0.001094 | DynC=0.002106
+Epoch 105 | K=   8 | Batch= 56 | Loss=0.089157 | Recon=0.088835 | DynH=0.001099 | DynC=0.002126
+Epoch 106 | K=   8 | Batch= 56 | Loss=0.087159 | Recon=0.086833 | DynH=0.001101 | DynC=0.002160
+Epoch 107 | K=   8 | Batch= 56 | Loss=0.086036 | Recon=0.085703 | DynH=0.001119 | DynC=0.002210
+Epoch 108 | K=   8 | Batch= 56 | Loss=0.085640 | Recon=0.085299 | DynH=0.001130 | DynC=0.002276
+Epoch 109 | K=   8 | Batch= 56 | Loss=0.082532 | Recon=0.082188 | DynH=0.001141 | DynC=0.002291
+Epoch 110 | K=   8 | Batch= 56 | Loss=0.081997 | Recon=0.081651 | DynH=0.001148 | DynC=0.002315
+Epoch 111 | K=   8 | Batch= 56 | Loss=0.082075 | Recon=0.081724 | DynH=0.001150 | DynC=0.002359
+Epoch 112 | K=   8 | Batch= 56 | Loss=0.082011 | Recon=0.081657 | DynH=0.001159 | DynC=0.002385
+Epoch 113 | K=   8 | Batch= 56 | Loss=0.081930 | Recon=0.081570 | DynH=0.001177 | DynC=0.002416
+Epoch 114 | K=   8 | Batch= 56 | Loss=0.080004 | Recon=0.079639 | DynH=0.001188 | DynC=0.002460
+Epoch 115 | K=   8 | Batch= 56 | Loss=0.079531 | Recon=0.079163 | DynH=0.001205 | DynC=0.002482
+Epoch 116 | K=   8 | Batch= 56 | Loss=0.078507 | Recon=0.078129 | DynH=0.001225 | DynC=0.002553
+Epoch 117 | K=   8 | Batch= 56 | Loss=0.078998 | Recon=0.078615 | DynH=0.001243 | DynC=0.002589
+Epoch 118 | K=   8 | Batch= 56 | Loss=0.078063 | Recon=0.077676 | DynH=0.001253 | DynC=0.002616
+Epoch 119 | K=   8 | Batch= 56 | Loss=0.077292 | Recon=0.076902 | DynH=0.001263 | DynC=0.002637
+Epoch 120 | K=   8 | Batch= 56 | Loss=0.077447 | Recon=0.077050 | DynH=0.001290 | DynC=0.002681
+Epoch 121 | K=   8 | Batch= 56 | Loss=0.075953 | Recon=0.075553 | DynH=0.001295 | DynC=0.002705
+Epoch 122 | K=   8 | Batch= 56 | Loss=0.076270 | Recon=0.075864 | DynH=0.001313 | DynC=0.002753
+Epoch 123 | K=   8 | Batch= 56 | Loss=0.074659 | Recon=0.074256 | DynH=0.001295 | DynC=0.002732
+Epoch 124 | K=   8 | Batch= 56 | Loss=0.075246 | Recon=0.074833 | DynH=0.001331 | DynC=0.002791
+Epoch 125 | K=   8 | Batch= 56 | Loss=0.074341 | Recon=0.073926 | DynH=0.001336 | DynC=0.002814
+Epoch 126 | K=   8 | Batch= 56 | Loss=0.074301 | Recon=0.073880 | DynH=0.001355 | DynC=0.002852
+Epoch 127 | K=   8 | Batch= 56 | Loss=0.073848 | Recon=0.073424 | DynH=0.001361 | DynC=0.002881
+Epoch 128 | K=   8 | Batch= 56 | Loss=0.073871 | Recon=0.073443 | DynH=0.001376 | DynC=0.002901
+Epoch 129 | K=   8 | Batch= 56 | Loss=0.072990 | Recon=0.072558 | DynH=0.001389 | DynC=0.002931
+Epoch 130 | K=   8 | Batch= 56 | Loss=0.073174 | Recon=0.072734 | DynH=0.001414 | DynC=0.002978
+Epoch 131 | K=   8 | Batch= 56 | Loss=0.073225 | Recon=0.072785 | DynH=0.001407 | DynC=0.002995
+Epoch 132 | K=   8 | Batch= 56 | Loss=0.073993 | Recon=0.073544 | DynH=0.001447 | DynC=0.003046
+Epoch 133 | K=   8 | Batch= 56 | Loss=0.073609 | Recon=0.073160 | DynH=0.001444 | DynC=0.003050
+Epoch 134 | K=   8 | Batch= 56 | Loss=0.072120 | Recon=0.071663 | DynH=0.001467 | DynC=0.003108
+Epoch 135 | K=   8 | Batch= 56 | Loss=0.071781 | Recon=0.071322 | DynH=0.001470 | DynC=0.003118
+Epoch 136 | K=   8 | Batch= 56 | Loss=0.070384 | Recon=0.069922 | DynH=0.001479 | DynC=0.003145
+Epoch 137 | K=   8 | Batch= 56 | Loss=0.071535 | Recon=0.071070 | DynH=0.001492 | DynC=0.003153
+Epoch 138 | K=   8 | Batch= 56 | Loss=0.070835 | Recon=0.070368 | DynH=0.001499 | DynC=0.003180
+Epoch 139 | K=   8 | Batch= 56 | Loss=0.070533 | Recon=0.070060 | DynH=0.001519 | DynC=0.003206
+Epoch 140 | K=   8 | Batch= 56 | Loss=0.070431 | Recon=0.069952 | DynH=0.001533 | DynC=0.003255
+Epoch 141 | K=   8 | Batch= 56 | Loss=0.070132 | Recon=0.069647 | DynH=0.001552 | DynC=0.003291
+Epoch 142 | K=   8 | Batch= 56 | Loss=0.070294 | Recon=0.069811 | DynH=0.001547 | DynC=0.003278
+Epoch 143 | K=   8 | Batch= 56 | Loss=0.069799 | Recon=0.069310 | DynH=0.001570 | DynC=0.003322
+Epoch 144 | K=   8 | Batch= 56 | Loss=0.068365 | Recon=0.067877 | DynH=0.001552 | DynC=0.003330
+Epoch 145 | K=   8 | Batch= 56 | Loss=0.068946 | Recon=0.068447 | DynH=0.001593 | DynC=0.003403
+Epoch 146 | K=   8 | Batch= 56 | Loss=0.068439 | Recon=0.067938 | DynH=0.001601 | DynC=0.003404
+Epoch 147 | K=   8 | Batch= 56 | Loss=0.068560 | Recon=0.068056 | DynH=0.001607 | DynC=0.003439
+Epoch 148 | K=   8 | Batch= 56 | Loss=0.068409 | Recon=0.067905 | DynH=0.001602 | DynC=0.003434
+Epoch 149 | K=   8 | Batch= 56 | Loss=0.068722 | Recon=0.068210 | DynH=0.001638 | DynC=0.003483
+Epoch 150 | K=  16 | Batch= 30 | Loss=0.142276 | Recon=0.141513 | DynH=0.002519 | DynC=0.005111
+Epoch 151 | K=  16 | Batch= 30 | Loss=0.118695 | Recon=0.117966 | DynH=0.002475 | DynC=0.004812
+Epoch 152 | K=  16 | Batch= 30 | Loss=0.110698 | Recon=0.109978 | DynH=0.002467 | DynC=0.004735
+Epoch 153 | K=  16 | Batch= 30 | Loss=0.103310 | Recon=0.102590 | DynH=0.002472 | DynC=0.004731
+Epoch 154 | K=  16 | Batch= 30 | Loss=0.098464 | Recon=0.097744 | DynH=0.002485 | DynC=0.004715
+Epoch 155 | K=  16 | Batch= 30 | Loss=0.096554 | Recon=0.095828 | DynH=0.002500 | DynC=0.004764
+Epoch 156 | K=  16 | Batch= 30 | Loss=0.094144 | Recon=0.093420 | DynH=0.002499 | DynC=0.004741
+Epoch 157 | K=  16 | Batch= 30 | Loss=0.092047 | Recon=0.091314 | DynH=0.002531 | DynC=0.004800
+Epoch 158 | K=  16 | Batch= 30 | Loss=0.092457 | Recon=0.091721 | DynH=0.002542 | DynC=0.004816
+Epoch 159 | K=  16 | Batch= 30 | Loss=0.088784 | Recon=0.088046 | DynH=0.002549 | DynC=0.004832
+Epoch 160 | K=  16 | Batch= 30 | Loss=0.088606 | Recon=0.087861 | DynH=0.002568 | DynC=0.004878
+Epoch 161 | K=  16 | Batch= 30 | Loss=0.088332 | Recon=0.087584 | DynH=0.002581 | DynC=0.004907
+Epoch 162 | K=  16 | Batch= 30 | Loss=0.086055 | Recon=0.085299 | DynH=0.002601 | DynC=0.004955
+Epoch 163 | K=  16 | Batch= 30 | Loss=0.086811 | Recon=0.086047 | DynH=0.002642 | DynC=0.004997
+Epoch 164 | K=  16 | Batch= 30 | Loss=0.084004 | Recon=0.083238 | DynH=0.002649 | DynC=0.005017
+Epoch 165 | K=  16 | Batch= 30 | Loss=0.083388 | Recon=0.082617 | DynH=0.002670 | DynC=0.005037
+Epoch 166 | K=  16 | Batch= 30 | Loss=0.082667 | Recon=0.081892 | DynH=0.002670 | DynC=0.005077
+Epoch 167 | K=  16 | Batch= 30 | Loss=0.082707 | Recon=0.081920 | DynH=0.002721 | DynC=0.005142
+Epoch 168 | K=  16 | Batch= 30 | Loss=0.082791 | Recon=0.081999 | DynH=0.002744 | DynC=0.005181
+Epoch 169 | K=  16 | Batch= 30 | Loss=0.081750 | Recon=0.080953 | DynH=0.002754 | DynC=0.005213
+Epoch 170 | K=  16 | Batch= 30 | Loss=0.081785 | Recon=0.080981 | DynH=0.002780 | DynC=0.005258
+Epoch 171 | K=  16 | Batch= 30 | Loss=0.080312 | Recon=0.079505 | DynH=0.002794 | DynC=0.005276
+Epoch 172 | K=  16 | Batch= 30 | Loss=0.081640 | Recon=0.080832 | DynH=0.002788 | DynC=0.005289
+Epoch 173 | K=  16 | Batch= 30 | Loss=0.079854 | Recon=0.079046 | DynH=0.002788 | DynC=0.005293
+Epoch 174 | K=  16 | Batch= 30 | Loss=0.079498 | Recon=0.078676 | DynH=0.002838 | DynC=0.005386
+Epoch 175 | K=  16 | Batch= 30 | Loss=0.078686 | Recon=0.077864 | DynH=0.002844 | DynC=0.005380
+Epoch 176 | K=  16 | Batch= 30 | Loss=0.079379 | Recon=0.078551 | DynH=0.002843 | DynC=0.005439
+Epoch 177 | K=  16 | Batch= 30 | Loss=0.078541 | Recon=0.077711 | DynH=0.002871 | DynC=0.005434
+Epoch 178 | K=  16 | Batch= 30 | Loss=0.077229 | Recon=0.076397 | DynH=0.002851 | DynC=0.005471
+Epoch 179 | K=  16 | Batch= 30 | Loss=0.076301 | Recon=0.075471 | DynH=0.002855 | DynC=0.005446
+Epoch 180 | K=  16 | Batch= 30 | Loss=0.076721 | Recon=0.075881 | DynH=0.002884 | DynC=0.005521
+Epoch 181 | K=  16 | Batch= 30 | Loss=0.076809 | Recon=0.075968 | DynH=0.002882 | DynC=0.005528
+Epoch 182 | K=  16 | Batch= 30 | Loss=0.075849 | Recon=0.075002 | DynH=0.002894 | DynC=0.005572
+Epoch 183 | K=  16 | Batch= 30 | Loss=0.075702 | Recon=0.074858 | DynH=0.002904 | DynC=0.005537
+Epoch 184 | K=  16 | Batch= 30 | Loss=0.074816 | Recon=0.073961 | DynH=0.002925 | DynC=0.005632
+Epoch 185 | K=  16 | Batch= 30 | Loss=0.075330 | Recon=0.074477 | DynH=0.002932 | DynC=0.005600
+Epoch 186 | K=  16 | Batch= 30 | Loss=0.073185 | Recon=0.072328 | DynH=0.002910 | DynC=0.005665
+Epoch 187 | K=  16 | Batch= 30 | Loss=0.075486 | Recon=0.074629 | DynH=0.002922 | DynC=0.005655
+Epoch 188 | K=  16 | Batch= 30 | Loss=0.074413 | Recon=0.073547 | DynH=0.002945 | DynC=0.005711
+Epoch 189 | K=  16 | Batch= 30 | Loss=0.074587 | Recon=0.073727 | DynH=0.002916 | DynC=0.005679
+Epoch 190 | K=  16 | Batch= 30 | Loss=0.073724 | Recon=0.072857 | DynH=0.002934 | DynC=0.005736
+Epoch 191 | K=  16 | Batch= 30 | Loss=0.073144 | Recon=0.072272 | DynH=0.002952 | DynC=0.005766
+Epoch 192 | K=  16 | Batch= 30 | Loss=0.072436 | Recon=0.071569 | DynH=0.002935 | DynC=0.005728
+Epoch 193 | K=  16 | Batch= 30 | Loss=0.072575 | Recon=0.071709 | DynH=0.002926 | DynC=0.005738
+Epoch 194 | K=  16 | Batch= 30 | Loss=0.072944 | Recon=0.072066 | DynH=0.002962 | DynC=0.005819
+Epoch 195 | K=  16 | Batch= 30 | Loss=0.071836 | Recon=0.070962 | DynH=0.002957 | DynC=0.005786
+Epoch 196 | K=  16 | Batch= 30 | Loss=0.071478 | Recon=0.070603 | DynH=0.002925 | DynC=0.005827
+Epoch 197 | K=  16 | Batch= 30 | Loss=0.071468 | Recon=0.070589 | DynH=0.002971 | DynC=0.005827
+Epoch 198 | K=  16 | Batch= 30 | Loss=0.071628 | Recon=0.070738 | DynH=0.003002 | DynC=0.005902
+Epoch 199 | K=  16 | Batch= 30 | Loss=0.071618 | Recon=0.070731 | DynH=0.002980 | DynC=0.005892
+Epoch 200 | K=  32 | Batch= 15 | Loss=0.162229 | Recon=0.160740 | DynH=0.004862 | DynC=0.010032
+Epoch 201 | K=  32 | Batch= 15 | Loss=0.136942 | Recon=0.135472 | DynH=0.004855 | DynC=0.009844
+Epoch 202 | K=  32 | Batch= 15 | Loss=0.121540 | Recon=0.120094 | DynH=0.004828 | DynC=0.009626
+Epoch 203 | K=  32 | Batch= 15 | Loss=0.112667 | Recon=0.111241 | DynH=0.004776 | DynC=0.009479
+Epoch 204 | K=  32 | Batch= 15 | Loss=0.108939 | Recon=0.107518 | DynH=0.004809 | DynC=0.009407
+Epoch 205 | K=  32 | Batch= 15 | Loss=0.105195 | Recon=0.103780 | DynH=0.004819 | DynC=0.009338
+Epoch 206 | K=  32 | Batch= 15 | Loss=0.102448 | Recon=0.101030 | DynH=0.004847 | DynC=0.009333
+Epoch 207 | K=  32 | Batch= 15 | Loss=0.099140 | Recon=0.097733 | DynH=0.004818 | DynC=0.009255
+Epoch 208 | K=  32 | Batch= 15 | Loss=0.097796 | Recon=0.096376 | DynH=0.004874 | DynC=0.009322
+Epoch 209 | K=  32 | Batch= 15 | Loss=0.096535 | Recon=0.095122 | DynH=0.004868 | DynC=0.009264
+Epoch 210 | K=  32 | Batch= 15 | Loss=0.093838 | Recon=0.092429 | DynH=0.004883 | DynC=0.009214
+Epoch 211 | K=  32 | Batch= 15 | Loss=0.091774 | Recon=0.090371 | DynH=0.004844 | DynC=0.009188
+Epoch 212 | K=  32 | Batch= 15 | Loss=0.092182 | Recon=0.090778 | DynH=0.004855 | DynC=0.009188
+Epoch 213 | K=  32 | Batch= 15 | Loss=0.091651 | Recon=0.090248 | DynH=0.004861 | DynC=0.009167
+Epoch 214 | K=  32 | Batch= 15 | Loss=0.090441 | Recon=0.089042 | DynH=0.004870 | DynC=0.009127
+Epoch 215 | K=  32 | Batch= 15 | Loss=0.088879 | Recon=0.087479 | DynH=0.004876 | DynC=0.009125
+Epoch 216 | K=  32 | Batch= 15 | Loss=0.088874 | Recon=0.087464 | DynH=0.004932 | DynC=0.009167
+Epoch 217 | K=  32 | Batch= 15 | Loss=0.087518 | Recon=0.086115 | DynH=0.004890 | DynC=0.009142
+Epoch 218 | K=  32 | Batch= 15 | Loss=0.086478 | Recon=0.085087 | DynH=0.004858 | DynC=0.009052
+Epoch 219 | K=  32 | Batch= 15 | Loss=0.086569 | Recon=0.085174 | DynH=0.004865 | DynC=0.009087
+Epoch 220 | K=  32 | Batch= 15 | Loss=0.084950 | Recon=0.083555 | DynH=0.004873 | DynC=0.009070
+Epoch 221 | K=  32 | Batch= 15 | Loss=0.084620 | Recon=0.083240 | DynH=0.004818 | DynC=0.008985
+Epoch 222 | K=  32 | Batch= 15 | Loss=0.085507 | Recon=0.083155 | DynH=0.003147 | DynC=0.006792
+Epoch 223 | K=  32 | Batch= 15 | Loss=0.093077 | Recon=0.090993 | DynH=0.002750 | DynC=0.006028
+Epoch 224 | K=  32 | Batch= 15 | Loss=0.092238 | Recon=0.090210 | DynH=0.002767 | DynC=0.005836
+Epoch 225 | K=  32 | Batch= 15 | Loss=0.089136 | Recon=0.087180 | DynH=0.002760 | DynC=0.005599
+Epoch 226 | K=  32 | Batch= 15 | Loss=0.086976 | Recon=0.085016 | DynH=0.002819 | DynC=0.005594
+Epoch 227 | K=  32 | Batch= 15 | Loss=0.084883 | Recon=0.082979 | DynH=0.002808 | DynC=0.005410
+Epoch 228 | K=  32 | Batch= 15 | Loss=0.083286 | Recon=0.081394 | DynH=0.002845 | DynC=0.005359
+Epoch 229 | K=  32 | Batch= 15 | Loss=0.083201 | Recon=0.081323 | DynH=0.002851 | DynC=0.005307
+Epoch 230 | K=  32 | Batch= 15 | Loss=0.082358 | Recon=0.080492 | DynH=0.002882 | DynC=0.005260
+Epoch 231 | K=  32 | Batch= 15 | Loss=0.081991 | Recon=0.080151 | DynH=0.002839 | DynC=0.005186
+Epoch 232 | K=  32 | Batch= 15 | Loss=0.080730 | Recon=0.078893 | DynH=0.002869 | DynC=0.005166
+Epoch 233 | K=  32 | Batch= 15 | Loss=0.080630 | Recon=0.078798 | DynH=0.002895 | DynC=0.005140
+Epoch 234 | K=  32 | Batch= 15 | Loss=0.079688 | Recon=0.077847 | DynH=0.002918 | DynC=0.005163
+Epoch 235 | K=  32 | Batch= 15 | Loss=0.079108 | Recon=0.077284 | DynH=0.002914 | DynC=0.005108
+Epoch 236 | K=  32 | Batch= 15 | Loss=0.078943 | Recon=0.077121 | DynH=0.002932 | DynC=0.005098
+Epoch 237 | K=  32 | Batch= 15 | Loss=0.077720 | Recon=0.075900 | DynH=0.002935 | DynC=0.005088
+Epoch 238 | K=  32 | Batch= 15 | Loss=0.077481 | Recon=0.075655 | DynH=0.002970 | DynC=0.005099
+Epoch 239 | K=  32 | Batch= 15 | Loss=0.077633 | Recon=0.075822 | DynH=0.002952 | DynC=0.005053
+Epoch 240 | K=  32 | Batch= 15 | Loss=0.077119 | Recon=0.075305 | DynH=0.002959 | DynC=0.005062
+Epoch 241 | K=  32 | Batch= 15 | Loss=0.076563 | Recon=0.074755 | DynH=0.002975 | DynC=0.005033
+Epoch 242 | K=  32 | Batch= 15 | Loss=0.077457 | Recon=0.075668 | DynH=0.002951 | DynC=0.004982
+Epoch 243 | K=  32 | Batch= 15 | Loss=0.077244 | Recon=0.075442 | DynH=0.002976 | DynC=0.005014
+Epoch 244 | K=  32 | Batch= 15 | Loss=0.074858 | Recon=0.073048 | DynH=0.003002 | DynC=0.005033
+Epoch 245 | K=  32 | Batch= 15 | Loss=0.076235 | Recon=0.074440 | DynH=0.002992 | DynC=0.004985
+Epoch 246 | K=  32 | Batch= 15 | Loss=0.075229 | Recon=0.073440 | DynH=0.002974 | DynC=0.004972
+Epoch 247 | K=  32 | Batch= 15 | Loss=0.075233 | Recon=0.073451 | DynH=0.002983 | DynC=0.004945
+Epoch 248 | K=  32 | Batch= 15 | Loss=0.074414 | Recon=0.072635 | DynH=0.002976 | DynC=0.004938
+Epoch 249 | K=  32 | Batch= 15 | Loss=0.075041 | Recon=0.073268 | DynH=0.002970 | DynC=0.004920
+Epoch 250 | K=  64 | Batch=  7 | Loss=0.171335 | Recon=0.166454 | DynH=0.007167 | DynC=0.013880
+Epoch 251 | K=  64 | Batch=  7 | Loss=0.142664 | Recon=0.138100 | DynH=0.006948 | DynC=0.012899
+Epoch 252 | K=  64 | Batch=  7 | Loss=0.129060 | Recon=0.124751 | DynH=0.006748 | DynC=0.012116
+Epoch 253 | K=  64 | Batch=  7 | Loss=0.121829 | Recon=0.117728 | DynH=0.006577 | DynC=0.011479
+Epoch 254 | K=  64 | Batch=  7 | Loss=0.116462 | Recon=0.112501 | DynH=0.006473 | DynC=0.011046
+Epoch 255 | K=  64 | Batch=  7 | Loss=0.112310 | Recon=0.108463 | DynH=0.006395 | DynC=0.010692
+Epoch 256 | K=  64 | Batch=  7 | Loss=0.109946 | Recon=0.106182 | DynH=0.006359 | DynC=0.010425
+Epoch 257 | K=  64 | Batch=  7 | Loss=0.106587 | Recon=0.102940 | DynH=0.006254 | DynC=0.010072
+Epoch 258 | K=  64 | Batch=  7 | Loss=0.105448 | Recon=0.101882 | DynH=0.006199 | DynC=0.009818
+Epoch 259 | K=  64 | Batch=  7 | Loss=0.103900 | Recon=0.100395 | DynH=0.006203 | DynC=0.009614
+Epoch 260 | K=  64 | Batch=  7 | Loss=0.101309 | Recon=0.097914 | DynH=0.006079 | DynC=0.009291
+Epoch 261 | K=  64 | Batch=  7 | Loss=0.102089 | Recon=0.098697 | DynH=0.006118 | DynC=0.009268
+Epoch 262 | K=  64 | Batch=  7 | Loss=0.100610 | Recon=0.097285 | DynH=0.006044 | DynC=0.009067
+Epoch 263 | K=  64 | Batch=  7 | Loss=0.098106 | Recon=0.094840 | DynH=0.006008 | DynC=0.008884
+Epoch 264 | K=  64 | Batch=  7 | Loss=0.097655 | Recon=0.094438 | DynH=0.005965 | DynC=0.008733
+Epoch 265 | K=  64 | Batch=  7 | Loss=0.098019 | Recon=0.094314 | DynH=0.003434 | DynC=0.006036
+Epoch 266 | K=  64 | Batch=  7 | Loss=0.106359 | Recon=0.102553 | DynH=0.003433 | DynC=0.006240
+Epoch 267 | K=  64 | Batch=  7 | Loss=0.104023 | Recon=0.100364 | DynH=0.003406 | DynC=0.005956
+Epoch 268 | K=  64 | Batch=  7 | Loss=0.100102 | Recon=0.096541 | DynH=0.003389 | DynC=0.005767
+Epoch 269 | K=  64 | Batch=  7 | Loss=0.097527 | Recon=0.094157 | DynH=0.003288 | DynC=0.005426
+Epoch 270 | K=  64 | Batch=  7 | Loss=0.096523 | Recon=0.093185 | DynH=0.003312 | DynC=0.005350
+Epoch 271 | K=  64 | Batch=  7 | Loss=0.094705 | Recon=0.091402 | DynH=0.003305 | DynC=0.005284
+Epoch 272 | K=  64 | Batch=  7 | Loss=0.095275 | Recon=0.092010 | DynH=0.003311 | DynC=0.005206
+Epoch 273 | K=  64 | Batch=  7 | Loss=0.092650 | Recon=0.089378 | DynH=0.003348 | DynC=0.005206
+Epoch 274 | K=  64 | Batch=  7 | Loss=0.092092 | Recon=0.088857 | DynH=0.003318 | DynC=0.005142
+Epoch 275 | K=  64 | Batch=  7 | Loss=0.091130 | Recon=0.087903 | DynH=0.003325 | DynC=0.005124
+Epoch 276 | K=  64 | Batch=  7 | Loss=0.091526 | Recon=0.088341 | DynH=0.003283 | DynC=0.005056
+Epoch 277 | K=  64 | Batch=  7 | Loss=0.091233 | Recon=0.088028 | DynH=0.003321 | DynC=0.005082
+Epoch 278 | K=  64 | Batch=  7 | Loss=0.090980 | Recon=0.087830 | DynH=0.003278 | DynC=0.004989
+Epoch 279 | K=  64 | Batch=  7 | Loss=0.090333 | Recon=0.087186 | DynH=0.003270 | DynC=0.004987
+Epoch 280 | K=  64 | Batch=  7 | Loss=0.089001 | Recon=0.085852 | DynH=0.003263 | DynC=0.004993
+Epoch 281 | K=  64 | Batch=  7 | Loss=0.087937 | Recon=0.084804 | DynH=0.003265 | DynC=0.004960
+Epoch 282 | K=  64 | Batch=  7 | Loss=0.087699 | Recon=0.084573 | DynH=0.003240 | DynC=0.004955
+Epoch 283 | K=  64 | Batch=  7 | Loss=0.089713 | Recon=0.086590 | DynH=0.003255 | DynC=0.004943
+Epoch 284 | K=  64 | Batch=  7 | Loss=0.087679 | Recon=0.084614 | DynH=0.003202 | DynC=0.004850
+Epoch 285 | K=  64 | Batch=  7 | Loss=0.089306 | Recon=0.086227 | DynH=0.003209 | DynC=0.004873
+Epoch 286 | K=  64 | Batch=  7 | Loss=0.087728 | Recon=0.084652 | DynH=0.003208 | DynC=0.004869
+Epoch 287 | K=  64 | Batch=  7 | Loss=0.086714 | Recon=0.083639 | DynH=0.003200 | DynC=0.004870
+Epoch 288 | K=  64 | Batch=  7 | Loss=0.087533 | Recon=0.084448 | DynH=0.003204 | DynC=0.004889
+Epoch 289 | K=  64 | Batch=  7 | Loss=0.086338 | Recon=0.083324 | DynH=0.003139 | DynC=0.004772
+Epoch 290 | K=  64 | Batch=  7 | Loss=0.086844 | Recon=0.083820 | DynH=0.003154 | DynC=0.004788
+Epoch 291 | K=  64 | Batch=  7 | Loss=0.085372 | Recon=0.082368 | DynH=0.003129 | DynC=0.004758
+Epoch 292 | K=  64 | Batch=  7 | Loss=0.086410 | Recon=0.083410 | DynH=0.003120 | DynC=0.004751
+Epoch 293 | K=  64 | Batch=  7 | Loss=0.085806 | Recon=0.082814 | DynH=0.003114 | DynC=0.004740
+Epoch 294 | K=  64 | Batch=  7 | Loss=0.085149 | Recon=0.082188 | DynH=0.003082 | DynC=0.004690
+Epoch 295 | K=  64 | Batch=  7 | Loss=0.084864 | Recon=0.081904 | DynH=0.003077 | DynC=0.004690
+Epoch 296 | K=  64 | Batch=  7 | Loss=0.085057 | Recon=0.082090 | DynH=0.003092 | DynC=0.004697
+Epoch 297 | K=  64 | Batch=  7 | Loss=0.084525 | Recon=0.081566 | DynH=0.003079 | DynC=0.004686
+Epoch 298 | K=  64 | Batch=  7 | Loss=0.084740 | Recon=0.081799 | DynH=0.003059 | DynC=0.004658
+Epoch 299 | K=  64 | Batch=  7 | Loss=0.085072 | Recon=0.082147 | DynH=0.003040 | DynC=0.004634
+Epoch 300 | K= 128 | Batch=  3 | Loss=0.235853 | Recon=0.222025 | DynH=0.012359 | DynC=0.022713
+Epoch 301 | K= 128 | Batch=  3 | Loss=0.200778 | Recon=0.188665 | DynH=0.010884 | DynC=0.019873
+Epoch 302 | K= 128 | Batch=  3 | Loss=0.188609 | Recon=0.177019 | DynH=0.010503 | DynC=0.018977
+Epoch 303 | K= 128 | Batch=  3 | Loss=0.173971 | Recon=0.163273 | DynH=0.009792 | DynC=0.017480
+Epoch 304 | K= 128 | Batch=  3 | Loss=0.165081 | Recon=0.157074 | DynH=0.007036 | DynC=0.013199
+Epoch 305 | K= 128 | Batch=  3 | Loss=0.168216 | Recon=0.159814 | DynH=0.007523 | DynC=0.013795
+Epoch 306 | K= 128 | Batch=  3 | Loss=0.163265 | Recon=0.154891 | DynH=0.007642 | DynC=0.013691
+Epoch 307 | K= 128 | Batch=  3 | Loss=0.156420 | Recon=0.148263 | DynH=0.007572 | DynC=0.013284
+Epoch 308 | K= 128 | Batch=  3 | Loss=0.151991 | Recon=0.144239 | DynH=0.007318 | DynC=0.012577
+Epoch 309 | K= 128 | Batch=  3 | Loss=0.146914 | Recon=0.139316 | DynH=0.007254 | DynC=0.012293
+Epoch 310 | K= 128 | Batch=  3 | Loss=0.142311 | Recon=0.135072 | DynH=0.007004 | DynC=0.011676
+Epoch 311 | K= 128 | Batch=  3 | Loss=0.141467 | Recon=0.134191 | DynH=0.007063 | DynC=0.011728
+Epoch 312 | K= 128 | Batch=  3 | Loss=0.138081 | Recon=0.131117 | DynH=0.006807 | DynC=0.011204
+Epoch 313 | K= 128 | Batch=  3 | Loss=0.136059 | Recon=0.129234 | DynH=0.006709 | DynC=0.010966
+Epoch 314 | K= 128 | Batch=  3 | Loss=0.136495 | Recon=0.129649 | DynH=0.006754 | DynC=0.010989
+Epoch 315 | K= 128 | Batch=  3 | Loss=0.132577 | Recon=0.125988 | DynH=0.006545 | DynC=0.010559
+Epoch 316 | K= 128 | Batch=  3 | Loss=0.130809 | Recon=0.124431 | DynH=0.006355 | DynC=0.010213
+Epoch 317 | K= 128 | Batch=  3 | Loss=0.130169 | Recon=0.123836 | DynH=0.006337 | DynC=0.010131
+Epoch 318 | K= 128 | Batch=  3 | Loss=0.130750 | Recon=0.124312 | DynH=0.006431 | DynC=0.010304
+Epoch 319 | K= 128 | Batch=  3 | Loss=0.130939 | Recon=0.124531 | DynH=0.006418 | DynC=0.010250
+Epoch 320 | K= 128 | Batch=  3 | Loss=0.128108 | Recon=0.121873 | DynH=0.006254 | DynC=0.009968
+Epoch 321 | K= 128 | Batch=  3 | Loss=0.127751 | Recon=0.121640 | DynH=0.006162 | DynC=0.009756
+Epoch 322 | K= 128 | Batch=  3 | Loss=0.125975 | Recon=0.119942 | DynH=0.006085 | DynC=0.009632
+Epoch 323 | K= 128 | Batch=  3 | Loss=0.126190 | Recon=0.120103 | DynH=0.006144 | DynC=0.009716
+Epoch 324 | K= 128 | Batch=  3 | Loss=0.125315 | Recon=0.119329 | DynH=0.006059 | DynC=0.009548
+Epoch 325 | K= 128 | Batch=  3 | Loss=0.125046 | Recon=0.119130 | DynH=0.006001 | DynC=0.009433
+Epoch 326 | K= 128 | Batch=  3 | Loss=0.124112 | Recon=0.118284 | DynH=0.005915 | DynC=0.009289
+Epoch 327 | K= 128 | Batch=  3 | Loss=0.123164 | Recon=0.117378 | DynH=0.005891 | DynC=0.009216
+Epoch 328 | K= 128 | Batch=  3 | Loss=0.123757 | Recon=0.117912 | DynH=0.005948 | DynC=0.009311
+Epoch 329 | K= 128 | Batch=  3 | Loss=0.120738 | Recon=0.115120 | DynH=0.005746 | DynC=0.008937
+Epoch 330 | K= 128 | Batch=  3 | Loss=0.122808 | Recon=0.117138 | DynH=0.005794 | DynC=0.009021
+Epoch 331 | K= 128 | Batch=  3 | Loss=0.122731 | Recon=0.117023 | DynH=0.005829 | DynC=0.009083
+Epoch 332 | K= 128 | Batch=  3 | Loss=0.120807 | Recon=0.115297 | DynH=0.005678 | DynC=0.008750
+Epoch 333 | K= 128 | Batch=  3 | Loss=0.120655 | Recon=0.115144 | DynH=0.005667 | DynC=0.008754
+Epoch 334 | K= 128 | Batch=  3 | Loss=0.118643 | Recon=0.113227 | DynH=0.005591 | DynC=0.008595
+Epoch 335 | K= 128 | Batch=  3 | Loss=0.121284 | Recon=0.115712 | DynH=0.005740 | DynC=0.008849
+Epoch 336 | K= 128 | Batch=  3 | Loss=0.116973 | Recon=0.111600 | DynH=0.005562 | DynC=0.008521
+Epoch 337 | K= 128 | Batch=  3 | Loss=0.119452 | Recon=0.114042 | DynH=0.005608 | DynC=0.008577
+Epoch 338 | K= 128 | Batch=  3 | Loss=0.119396 | Recon=0.113929 | DynH=0.005654 | DynC=0.008672
+Epoch 339 | K= 128 | Batch=  3 | Loss=0.118125 | Recon=0.112771 | DynH=0.005560 | DynC=0.008484
+Epoch 340 | K= 128 | Batch=  3 | Loss=0.119238 | Recon=0.113853 | DynH=0.005599 | DynC=0.008531
+Epoch 341 | K= 128 | Batch=  3 | Loss=0.117837 | Recon=0.112528 | DynH=0.005531 | DynC=0.008404
+Epoch 342 | K= 128 | Batch=  3 | Loss=0.116668 | Recon=0.111368 | DynH=0.005516 | DynC=0.008393
+Epoch 343 | K= 128 | Batch=  3 | Loss=0.118252 | Recon=0.113032 | DynH=0.005457 | DynC=0.008257
+Epoch 344 | K= 128 | Batch=  3 | Loss=0.115536 | Recon=0.110361 | DynH=0.005409 | DynC=0.008187
+Epoch 345 | K= 128 | Batch=  3 | Loss=0.114702 | Recon=0.109609 | DynH=0.005337 | DynC=0.008052
+Epoch 346 | K= 128 | Batch=  3 | Loss=0.116245 | Recon=0.111082 | DynH=0.005399 | DynC=0.008166
+Epoch 347 | K= 128 | Batch=  3 | Loss=0.116456 | Recon=0.111373 | DynH=0.005314 | DynC=0.008040
+Epoch 348 | K= 128 | Batch=  3 | Loss=0.115579 | Recon=0.110509 | DynH=0.005324 | DynC=0.008010
+Epoch 349 | K= 128 | Batch=  3 | Loss=0.115730 | Recon=0.110623 | DynH=0.005360 | DynC=0.008070
+Epoch 350 | K= 256 | Batch=  1 | Loss=0.456721 | Recon=0.440221 | DynH=0.014199 | DynC=0.027320
+Epoch 351 | K= 256 | Batch=  1 | Loss=0.399096 | Recon=0.390535 | DynH=0.006418 | DynC=0.014555
+Epoch 352 | K= 256 | Batch=  1 | Loss=0.347047 | Recon=0.341207 | DynH=0.004193 | DynC=0.010003
+Epoch 353 | K= 256 | Batch=  1 | Loss=0.308003 | Recon=0.303497 | DynH=0.003369 | DynC=0.007663
+Epoch 354 | K= 256 | Batch=  1 | Loss=0.278950 | Recon=0.275170 | DynH=0.002987 | DynC=0.006365
+Epoch 355 | K= 256 | Batch=  1 | Loss=0.258717 | Recon=0.255177 | DynH=0.002918 | DynC=0.005913
+Epoch 356 | K= 256 | Batch=  1 | Loss=0.248952 | Recon=0.245579 | DynH=0.002854 | DynC=0.005604
+Epoch 357 | K= 256 | Batch=  1 | Loss=0.234054 | Recon=0.230907 | DynH=0.002708 | DynC=0.005210
+Epoch 358 | K= 256 | Batch=  1 | Loss=0.228228 | Recon=0.225206 | DynH=0.002651 | DynC=0.004985
+Epoch 359 | K= 256 | Batch=  1 | Loss=0.221388 | Recon=0.218385 | DynH=0.002658 | DynC=0.004942
+Epoch 360 | K= 256 | Batch=  1 | Loss=0.216955 | Recon=0.214042 | DynH=0.002625 | DynC=0.004775
+Epoch 361 | K= 256 | Batch=  1 | Loss=0.211925 | Recon=0.209048 | DynH=0.002611 | DynC=0.004709
+Epoch 362 | K= 256 | Batch=  1 | Loss=0.208264 | Recon=0.205439 | DynH=0.002595 | DynC=0.004613
+Epoch 363 | K= 256 | Batch=  1 | Loss=0.205460 | Recon=0.202621 | DynH=0.002627 | DynC=0.004628
+Epoch 364 | K= 256 | Batch=  1 | Loss=0.201894 | Recon=0.199124 | DynH=0.002591 | DynC=0.004503
+Epoch 365 | K= 256 | Batch=  1 | Loss=0.201158 | Recon=0.198360 | DynH=0.002630 | DynC=0.004544
+Epoch 366 | K= 256 | Batch=  1 | Loss=0.197009 | Recon=0.194252 | DynH=0.002619 | DynC=0.004465
+Epoch 367 | K= 256 | Batch=  1 | Loss=0.196742 | Recon=0.193979 | DynH=0.002631 | DynC=0.004474
+Epoch 368 | K= 256 | Batch=  1 | Loss=0.192686 | Recon=0.189961 | DynH=0.002601 | DynC=0.004410
+Epoch 369 | K= 256 | Batch=  1 | Loss=0.192559 | Recon=0.189804 | DynH=0.002651 | DynC=0.004448
+Epoch 370 | K= 256 | Batch=  1 | Loss=0.189908 | Recon=0.187156 | DynH=0.002655 | DynC=0.004442
+Epoch 371 | K= 256 | Batch=  1 | Loss=0.189116 | Recon=0.186341 | DynH=0.002689 | DynC=0.004475
+Epoch 372 | K= 256 | Batch=  1 | Loss=0.187742 | Recon=0.184986 | DynH=0.002681 | DynC=0.004440
+Epoch 373 | K= 256 | Batch=  1 | Loss=0.185437 | Recon=0.182665 | DynH=0.002691 | DynC=0.004467
+Epoch 374 | K= 256 | Batch=  1 | Loss=0.183161 | Recon=0.180456 | DynH=0.002658 | DynC=0.004346
+Epoch 375 | K= 256 | Batch=  1 | Loss=0.182935 | Recon=0.180196 | DynH=0.002685 | DynC=0.004403
+Epoch 376 | K= 256 | Batch=  1 | Loss=0.183288 | Recon=0.180461 | DynH=0.002767 | DynC=0.004547
+Epoch 377 | K= 256 | Batch=  1 | Loss=0.179871 | Recon=0.177121 | DynH=0.002705 | DynC=0.004417
+Epoch 378 | K= 256 | Batch=  1 | Loss=0.178494 | Recon=0.175741 | DynH=0.002704 | DynC=0.004423
+Epoch 379 | K= 256 | Batch=  1 | Loss=0.178963 | Recon=0.176141 | DynH=0.002786 | DynC=0.004531
+Epoch 380 | K= 256 | Batch=  1 | Loss=0.177081 | Recon=0.174315 | DynH=0.002738 | DynC=0.004437
+Epoch 381 | K= 256 | Batch=  1 | Loss=0.176651 | Recon=0.173854 | DynH=0.002767 | DynC=0.004488
+Epoch 382 | K= 256 | Batch=  1 | Loss=0.176939 | Recon=0.174094 | DynH=0.002822 | DynC=0.004561
+Epoch 383 | K= 256 | Batch=  1 | Loss=0.176809 | Recon=0.173923 | DynH=0.002859 | DynC=0.004628
+Epoch 384 | K= 256 | Batch=  1 | Loss=0.174042 | Recon=0.171226 | DynH=0.002793 | DynC=0.004514
+Epoch 385 | K= 256 | Batch=  1 | Loss=0.173910 | Recon=0.171047 | DynH=0.002836 | DynC=0.004591
+Epoch 386 | K= 256 | Batch=  1 | Loss=0.173256 | Recon=0.170376 | DynH=0.002848 | DynC=0.004620
+Epoch 387 | K= 256 | Batch=  1 | Loss=0.172658 | Recon=0.169786 | DynH=0.002843 | DynC=0.004608
+Epoch 388 | K= 256 | Batch=  1 | Loss=0.170794 | Recon=0.167933 | DynH=0.002843 | DynC=0.004586
+Epoch 389 | K= 256 | Batch=  1 | Loss=0.168851 | Recon=0.166021 | DynH=0.002817 | DynC=0.004533
+Epoch 390 | K= 256 | Batch=  1 | Loss=0.169795 | Recon=0.166911 | DynH=0.002872 | DynC=0.004618
+Epoch 391 | K= 256 | Batch=  1 | Loss=0.167706 | Recon=0.164887 | DynH=0.002810 | DynC=0.004513
+Epoch 392 | K= 256 | Batch=  1 | Loss=0.167747 | Recon=0.164898 | DynH=0.002841 | DynC=0.004563
+Epoch 393 | K= 256 | Batch=  1 | Loss=0.167166 | Recon=0.164315 | DynH=0.002840 | DynC=0.004566
+Epoch 394 | K= 256 | Batch=  1 | Loss=0.166904 | Recon=0.164016 | DynH=0.002863 | DynC=0.004629
+Epoch 395 | K= 256 | Batch=  1 | Loss=0.165824 | Recon=0.162972 | DynH=0.002859 | DynC=0.004560
+Epoch 396 | K= 256 | Batch=  1 | Loss=0.162843 | Recon=0.160010 | DynH=0.002838 | DynC=0.004532
+Epoch 397 | K= 256 | Batch=  1 | Loss=0.163388 | Recon=0.160505 | DynH=0.002883 | DynC=0.004611
+Epoch 398 | K= 256 | Batch=  1 | Loss=0.162216 | Recon=0.159313 | DynH=0.002890 | DynC=0.004650
+Epoch 399 | K= 256 | Batch=  1 | Loss=0.161599 | Recon=0.158694 | DynH=0.002899 | DynC=0.004648
+Epoch 400 | K= 512 | Batch=  1 | Loss=0.220478 | Recon=0.215496 | DynH=0.004424 | DynC=0.008195
+Epoch 401 | K= 512 | Batch=  1 | Loss=0.212797 | Recon=0.208146 | DynH=0.004138 | DynC=0.007646
+Epoch 402 | K= 512 | Batch=  1 | Loss=0.207756 | Recon=0.203242 | DynH=0.004057 | DynC=0.007405
+Epoch 403 | K= 512 | Batch=  1 | Loss=0.203931 | Recon=0.199576 | DynH=0.003932 | DynC=0.007138
+Epoch 404 | K= 512 | Batch=  1 | Loss=0.201127 | Recon=0.196924 | DynH=0.003831 | DynC=0.006872
+Epoch 405 | K= 512 | Batch=  1 | Loss=0.201311 | Recon=0.197126 | DynH=0.003856 | DynC=0.006826
+Epoch 406 | K= 512 | Batch=  1 | Loss=0.199832 | Recon=0.195724 | DynH=0.003787 | DynC=0.006701
+Epoch 407 | K= 512 | Batch=  1 | Loss=0.197491 | Recon=0.193425 | DynH=0.003744 | DynC=0.006633
+Epoch 408 | K= 512 | Batch=  1 | Loss=0.195883 | Recon=0.191852 | DynH=0.003740 | DynC=0.006567
+Epoch 409 | K= 512 | Batch=  1 | Loss=0.191293 | Recon=0.187297 | DynH=0.003725 | DynC=0.006504
+Epoch 410 | K= 512 | Batch=  1 | Loss=0.191435 | Recon=0.187443 | DynH=0.003725 | DynC=0.006494
+Epoch 411 | K= 512 | Batch=  1 | Loss=0.189991 | Recon=0.185924 | DynH=0.003799 | DynC=0.006615
+Epoch 412 | K= 512 | Batch=  1 | Loss=0.188763 | Recon=0.184769 | DynH=0.003761 | DynC=0.006482
+Epoch 413 | K= 512 | Batch=  1 | Loss=0.186507 | Recon=0.182429 | DynH=0.003845 | DynC=0.006617
+Epoch 414 | K= 512 | Batch=  1 | Loss=0.182447 | Recon=0.178504 | DynH=0.003735 | DynC=0.006392
+Epoch 415 | K= 512 | Batch=  1 | Loss=0.186306 | Recon=0.182248 | DynH=0.003855 | DynC=0.006574
+Epoch 416 | K= 512 | Batch=  1 | Loss=0.185235 | Recon=0.181167 | DynH=0.003843 | DynC=0.006599
+Epoch 417 | K= 512 | Batch=  1 | Loss=0.181726 | Recon=0.177732 | DynH=0.003775 | DynC=0.006477
+Epoch 418 | K= 512 | Batch=  1 | Loss=0.182911 | Recon=0.178850 | DynH=0.003827 | DynC=0.006592
+Epoch 419 | K= 512 | Batch=  1 | Loss=0.177875 | Recon=0.173926 | DynH=0.003740 | DynC=0.006403
+Epoch 420 | K= 512 | Batch=  1 | Loss=0.181546 | Recon=0.177408 | DynH=0.003909 | DynC=0.006712
+Epoch 421 | K= 512 | Batch=  1 | Loss=0.177549 | Recon=0.173422 | DynH=0.003911 | DynC=0.006690
+Epoch 422 | K= 512 | Batch=  1 | Loss=0.174419 | Recon=0.170373 | DynH=0.003856 | DynC=0.006549
+Epoch 423 | K= 512 | Batch=  1 | Loss=0.176721 | Recon=0.172587 | DynH=0.003954 | DynC=0.006686
+Epoch 424 | K= 512 | Batch=  1 | Loss=0.173519 | Recon=0.169372 | DynH=0.003957 | DynC=0.006712
+Epoch 425 | K= 512 | Batch=  1 | Loss=0.174784 | Recon=0.170548 | DynH=0.004046 | DynC=0.006853
+Epoch 426 | K= 512 | Batch=  1 | Loss=0.171639 | Recon=0.167436 | DynH=0.004027 | DynC=0.006796
+Epoch 427 | K= 512 | Batch=  1 | Loss=0.171861 | Recon=0.167599 | DynH=0.004108 | DynC=0.006881
+Epoch 428 | K= 512 | Batch=  1 | Loss=0.169234 | Recon=0.165003 | DynH=0.004076 | DynC=0.006831
+Epoch 429 | K= 512 | Batch=  1 | Loss=0.167002 | Recon=0.162770 | DynH=0.004090 | DynC=0.006828
+Epoch 430 | K= 512 | Batch=  1 | Loss=0.166102 | Recon=0.161746 | DynH=0.004200 | DynC=0.007031
+Epoch 431 | K= 512 | Batch=  1 | Loss=0.167112 | Recon=0.162634 | DynH=0.004328 | DynC=0.007224
+Epoch 432 | K= 512 | Batch=  1 | Loss=0.163077 | Recon=0.158600 | DynH=0.004329 | DynC=0.007221
+Epoch 433 | K= 512 | Batch=  1 | Loss=0.161477 | Recon=0.157096 | DynH=0.004237 | DynC=0.007068
+Epoch 434 | K= 512 | Batch=  1 | Loss=0.161459 | Recon=0.156900 | DynH=0.004415 | DynC=0.007353
+Epoch 435 | K= 512 | Batch=  1 | Loss=0.161854 | Recon=0.157302 | DynH=0.004427 | DynC=0.007333
+Epoch 436 | K= 512 | Batch=  1 | Loss=0.162245 | Recon=0.157500 | DynH=0.004581 | DynC=0.007659
+Epoch 437 | K= 512 | Batch=  1 | Loss=0.163975 | Recon=0.159064 | DynH=0.004776 | DynC=0.007912
+Epoch 438 | K= 512 | Batch=  1 | Loss=0.157689 | Recon=0.153175 | DynH=0.004379 | DynC=0.007276
+Epoch 439 | K= 512 | Batch=  1 | Loss=0.156636 | Recon=0.152019 | DynH=0.004494 | DynC=0.007437
+Epoch 440 | K= 512 | Batch=  1 | Loss=0.160373 | Recon=0.155581 | DynH=0.004686 | DynC=0.007709
+Epoch 441 | K= 512 | Batch=  1 | Loss=0.154553 | Recon=0.149978 | DynH=0.004454 | DynC=0.007368
+Epoch 442 | K= 512 | Batch=  1 | Loss=0.151049 | Recon=0.146535 | DynH=0.004406 | DynC=0.007265
+Epoch 443 | K= 512 | Batch=  1 | Loss=0.150842 | Recon=0.146303 | DynH=0.004420 | DynC=0.007310
+Epoch 444 | K= 512 | Batch=  1 | Loss=0.155441 | Recon=0.150581 | DynH=0.004751 | DynC=0.007821
+Epoch 445 | K= 512 | Batch=  1 | Loss=0.152254 | Recon=0.147457 | DynH=0.004664 | DynC=0.007730
+Epoch 446 | K= 512 | Batch=  1 | Loss=0.152741 | Recon=0.147763 | DynH=0.004854 | DynC=0.008014
+Epoch 447 | K= 512 | Batch=  1 | Loss=0.150177 | Recon=0.145344 | DynH=0.004703 | DynC=0.007785
+Epoch 448 | K= 512 | Batch=  1 | Loss=0.154407 | Recon=0.149079 | DynH=0.005174 | DynC=0.008586
+Epoch 449 | K= 512 | Batch=  1 | Loss=0.149878 | Recon=0.144854 | DynH=0.004935 | DynC=0.008073
+Epoch 450 | K= 512 | Batch=  1 | Loss=0.151921 | Recon=0.146746 | DynH=0.005081 | DynC=0.008318
+Epoch 451 | K= 512 | Batch=  1 | Loss=0.147934 | Recon=0.142904 | DynH=0.004916 | DynC=0.008092
+Epoch 452 | K= 512 | Batch=  1 | Loss=0.147874 | Recon=0.142798 | DynH=0.004953 | DynC=0.008170
+Epoch 453 | K= 512 | Batch=  1 | Loss=0.153181 | Recon=0.147583 | DynH=0.005388 | DynC=0.009041
+Epoch 454 | K= 512 | Batch=  1 | Loss=0.149384 | Recon=0.143921 | DynH=0.005299 | DynC=0.008806
+Epoch 455 | K= 512 | Batch=  1 | Loss=0.145502 | Recon=0.140365 | DynH=0.005024 | DynC=0.008266
+Epoch 456 | K= 512 | Batch=  1 | Loss=0.143720 | Recon=0.138741 | DynH=0.004907 | DynC=0.007995
+Epoch 457 | K= 512 | Batch=  1 | Loss=0.145876 | Recon=0.140640 | DynH=0.005151 | DynC=0.008413
+Epoch 458 | K= 512 | Batch=  1 | Loss=0.142905 | Recon=0.137719 | DynH=0.005080 | DynC=0.008341
+Epoch 459 | K= 512 | Batch=  1 | Loss=0.142009 | Recon=0.136727 | DynH=0.005204 | DynC=0.008482
+Epoch 460 | K= 512 | Batch=  1 | Loss=0.141053 | Recon=0.135701 | DynH=0.005257 | DynC=0.008601
+Epoch 461 | K= 512 | Batch=  1 | Loss=0.140838 | Recon=0.135440 | DynH=0.005277 | DynC=0.008685
+Epoch 462 | K= 512 | Batch=  1 | Loss=0.141679 | Recon=0.136182 | DynH=0.005323 | DynC=0.008864
+Epoch 463 | K= 512 | Batch=  1 | Loss=0.139806 | Recon=0.134394 | DynH=0.005296 | DynC=0.008706
+Epoch 464 | K= 512 | Batch=  1 | Loss=0.145533 | Recon=0.139663 | DynH=0.005772 | DynC=0.009431
+Epoch 465 | K= 512 | Batch=  1 | Loss=0.141145 | Recon=0.135514 | DynH=0.005471 | DynC=0.009074
+Epoch 466 | K= 512 | Batch=  1 | Loss=0.141886 | Recon=0.136115 | DynH=0.005558 | DynC=0.009319
+Epoch 467 | K= 512 | Batch=  1 | Loss=0.137813 | Recon=0.132455 | DynH=0.005228 | DynC=0.008625
+Epoch 468 | K= 512 | Batch=  1 | Loss=0.144949 | Recon=0.138865 | DynH=0.005934 | DynC=0.009795
+Epoch 469 | K= 512 | Batch=  1 | Loss=0.144554 | Recon=0.138493 | DynH=0.005814 | DynC=0.009797
+Epoch 470 | K= 512 | Batch=  1 | Loss=0.141031 | Recon=0.135158 | DynH=0.005668 | DynC=0.009478
+Epoch 471 | K= 512 | Batch=  1 | Loss=0.140199 | Recon=0.134376 | DynH=0.005622 | DynC=0.009397
+Epoch 472 | K= 512 | Batch=  1 | Loss=0.143738 | Recon=0.137472 | DynH=0.006010 | DynC=0.010128
+Epoch 473 | K= 512 | Batch=  1 | Loss=0.139420 | Recon=0.133558 | DynH=0.005658 | DynC=0.009461
+Epoch 474 | K= 512 | Batch=  1 | Loss=0.159272 | Recon=0.151539 | DynH=0.007379 | DynC=0.012514
+Epoch 475 | K= 512 | Batch=  1 | Loss=0.149966 | Recon=0.143588 | DynH=0.006180 | DynC=0.010284
+Epoch 476 | K= 512 | Batch=  1 | Loss=0.143164 | Recon=0.137104 | DynH=0.005759 | DynC=0.009815
+Epoch 477 | K= 512 | Batch=  1 | Loss=0.146668 | Recon=0.140277 | DynH=0.006122 | DynC=0.010333
+Epoch 478 | K= 512 | Batch=  1 | Loss=0.155069 | Recon=0.148401 | DynH=0.006449 | DynC=0.010758
+Epoch 479 | K= 512 | Batch=  1 | Loss=0.139765 | Recon=0.133783 | DynH=0.005740 | DynC=0.009668
+Epoch 480 | K= 512 | Batch=  1 | Loss=0.141905 | Recon=0.135399 | DynH=0.006194 | DynC=0.010534
+Epoch 481 | K= 512 | Batch=  1 | Loss=0.135436 | Recon=0.129657 | DynH=0.005619 | DynC=0.009311
+Epoch 482 | K= 512 | Batch=  1 | Loss=0.139319 | Recon=0.132905 | DynH=0.006100 | DynC=0.010386
+Epoch 483 | K= 512 | Batch=  1 | Loss=0.136066 | Recon=0.130113 | DynH=0.005711 | DynC=0.009622
+Epoch 484 | K= 512 | Batch=  1 | Loss=0.134091 | Recon=0.128289 | DynH=0.005539 | DynC=0.009389
+Epoch 485 | K= 512 | Batch=  1 | Loss=0.141175 | Recon=0.134658 | DynH=0.006235 | DynC=0.010541
+Epoch 486 | K= 512 | Batch=  1 | Loss=0.153328 | Recon=0.145556 | DynH=0.007281 | DynC=0.012632
+Epoch 487 | K= 512 | Batch=  1 | Loss=0.151499 | Recon=0.144242 | DynH=0.006975 | DynC=0.011723
+Epoch 488 | K= 512 | Batch=  1 | Loss=0.148004 | Recon=0.139915 | DynH=0.007568 | DynC=0.013149
+Epoch 489 | K= 512 | Batch=  1 | Loss=0.137952 | Recon=0.130743 | DynH=0.006969 | DynC=0.011632
+Epoch 490 | K= 512 | Batch=  1 | Loss=0.161823 | Recon=0.152600 | DynH=0.008799 | DynC=0.014925
+Epoch 491 | K= 512 | Batch=  1 | Loss=0.137941 | Recon=0.130485 | DynH=0.007220 | DynC=0.012025
+Epoch 492 | K= 512 | Batch=  1 | Loss=0.142700 | Recon=0.134376 | DynH=0.008093 | DynC=0.013410
+Epoch 493 | K= 512 | Batch=  1 | Loss=0.149920 | Recon=0.140218 | DynH=0.009203 | DynC=0.015722
+Epoch 494 | K= 512 | Batch=  1 | Loss=0.171856 | Recon=0.161150 | DynH=0.010123 | DynC=0.017362
+Epoch 495 | K= 512 | Batch=  1 | Loss=0.167966 | Recon=0.159587 | DynH=0.007907 | DynC=0.013595
+Epoch 496 | K= 512 | Batch=  1 | Loss=0.144388 | Recon=0.138081 | DynH=0.005988 | DynC=0.010221
+Epoch 497 | K= 512 | Batch=  1 | Loss=0.155356 | Recon=0.148136 | DynH=0.006728 | DynC=0.011748
+Epoch 498 | K= 512 | Batch=  1 | Loss=0.137067 | Recon=0.131307 | DynH=0.005574 | DynC=0.009291
+Epoch 499 | K= 512 | Batch=  1 | Loss=0.140916 | Recon=0.134550 | DynH=0.006019 | DynC=0.010326
+Epoch 500 | K= 512 | Batch=  1 | Loss=0.200829 | Recon=0.188069 | DynH=0.010361 | DynC=0.021375
+Epoch 501 | K= 512 | Batch=  1 | Loss=0.189723 | Recon=0.176902 | DynH=0.010342 | DynC=0.021505
+Epoch 502 | K= 512 | Batch=  1 | Loss=0.179727 | Recon=0.166869 | DynH=0.010427 | DynC=0.021544
+Epoch 503 | K= 512 | Batch=  1 | Loss=0.225250 | Recon=0.208879 | DynH=0.013466 | DynC=0.027356
+Epoch 504 | K= 512 | Batch=  1 | Loss=0.202741 | Recon=0.189313 | DynH=0.010940 | DynC=0.022480
+Epoch 505 | K= 512 | Batch=  1 | Loss=0.199850 | Recon=0.186381 | DynH=0.010949 | DynC=0.022558
+Epoch 506 | K= 512 | Batch=  1 | Loss=0.199713 | Recon=0.186199 | DynH=0.010917 | DynC=0.022663
+Epoch 507 | K= 512 | Batch=  1 | Loss=0.205196 | Recon=0.190977 | DynH=0.011324 | DynC=0.023909
+Epoch 508 | K= 512 | Batch=  1 | Loss=0.200804 | Recon=0.186836 | DynH=0.011107 | DynC=0.023495
+Epoch 509 | K= 512 | Batch=  1 | Loss=0.210426 | Recon=0.196978 | DynH=0.010971 | DynC=0.022506
+Epoch 510 | K= 512 | Batch=  1 | Loss=0.183372 | Recon=0.171632 | DynH=0.009543 | DynC=0.019662
+Epoch 511 | K= 512 | Batch=  1 | Loss=0.185896 | Recon=0.173109 | DynH=0.010480 | DynC=0.021382
+Epoch 512 | K= 512 | Batch=  1 | Loss=0.179712 | Recon=0.166794 | DynH=0.010428 | DynC=0.021665
+Epoch 513 | K= 512 | Batch=  1 | Loss=0.162620 | Recon=0.151363 | DynH=0.009483 | DynC=0.018721
+Epoch 514 | K= 512 | Batch=  1 | Loss=0.166048 | Recon=0.153593 | DynH=0.010233 | DynC=0.020816
+Epoch 515 | K= 512 | Batch=  1 | Loss=0.229849 | Recon=0.211187 | DynH=0.014966 | DynC=0.031337
+Epoch 516 | K= 512 | Batch=  1 | Loss=0.181926 | Recon=0.168586 | DynH=0.010824 | DynC=0.022349
+Epoch 517 | K= 512 | Batch=  1 | Loss=0.190195 | Recon=0.177981 | DynH=0.010174 | DynC=0.020357
+Epoch 518 | K= 512 | Batch=  1 | Loss=0.185244 | Recon=0.173030 | DynH=0.010030 | DynC=0.020416
+Epoch 519 | K= 512 | Batch=  1 | Loss=0.203660 | Recon=0.188461 | DynH=0.012314 | DynC=0.025472
+Epoch 520 | K= 512 | Batch=  1 | Loss=0.212919 | Recon=0.198712 | DynH=0.011533 | DynC=0.023801
+Epoch 521 | K= 512 | Batch=  1 | Loss=0.196687 | Recon=0.183612 | DynH=0.010617 | DynC=0.021902
+Epoch 522 | K= 512 | Batch=  1 | Loss=0.171305 | Recon=0.161302 | DynH=0.008174 | DynC=0.016737
+Epoch 523 | K= 512 | Batch=  1 | Loss=0.173106 | Recon=0.160936 | DynH=0.009593 | DynC=0.020502
+Epoch 524 | K= 512 | Batch=  1 | Loss=0.155244 | Recon=0.144492 | DynH=0.008966 | DynC=0.017919
+Epoch 525 | K= 512 | Batch=  1 | Loss=0.177526 | Recon=0.164597 | DynH=0.010462 | DynC=0.021674
+Epoch 526 | K= 512 | Batch=  1 | Loss=0.187466 | Recon=0.173615 | DynH=0.011148 | DynC=0.023242
+Epoch 527 | K= 512 | Batch=  1 | Loss=0.171057 | Recon=0.158694 | DynH=0.009995 | DynC=0.020729
+Epoch 528 | K= 512 | Batch=  1 | Loss=0.206131 | Recon=0.190065 | DynH=0.012763 | DynC=0.027027
+Epoch 529 | K= 512 | Batch=  1 | Loss=0.179503 | Recon=0.167281 | DynH=0.009719 | DynC=0.020557
+Epoch 530 | K= 512 | Batch=  1 | Loss=0.186899 | Recon=0.173994 | DynH=0.010330 | DynC=0.021678
+Epoch 531 | K= 512 | Batch=  1 | Loss=0.170811 | Recon=0.158736 | DynH=0.009893 | DynC=0.020194
+Epoch 532 | K= 512 | Batch=  1 | Loss=0.185815 | Recon=0.172481 | DynH=0.010698 | DynC=0.022388
+Epoch 533 | K= 512 | Batch=  1 | Loss=0.171079 | Recon=0.159429 | DynH=0.009558 | DynC=0.019477
+Epoch 534 | K= 512 | Batch=  1 | Loss=0.171745 | Recon=0.159195 | DynH=0.010225 | DynC=0.021010
+Epoch 535 | K= 512 | Batch=  1 | Loss=0.187440 | Recon=0.172634 | DynH=0.011739 | DynC=0.024916
+Epoch 536 | K= 512 | Batch=  1 | Loss=0.161953 | Recon=0.149862 | DynH=0.009761 | DynC=0.020277
+Epoch 537 | K= 512 | Batch=  1 | Loss=0.153192 | Recon=0.141604 | DynH=0.009317 | DynC=0.019450
+Epoch 538 | K= 512 | Batch=  1 | Loss=0.163181 | Recon=0.150114 | DynH=0.010397 | DynC=0.021974
+Epoch 539 | K= 512 | Batch=  1 | Loss=0.177609 | Recon=0.162620 | DynH=0.011738 | DynC=0.025283
+Epoch 540 | K= 512 | Batch=  1 | Loss=0.160007 | Recon=0.147703 | DynH=0.009820 | DynC=0.020681
+Epoch 541 | K= 512 | Batch=  1 | Loss=0.183833 | Recon=0.168190 | DynH=0.012493 | DynC=0.026289
+Epoch 542 | K= 512 | Batch=  1 | Loss=0.216043 | Recon=0.200460 | DynH=0.012828 | DynC=0.026035
+Epoch 543 | K= 512 | Batch=  1 | Loss=0.183359 | Recon=0.170176 | DynH=0.010638 | DynC=0.022110
+Epoch 544 | K= 512 | Batch=  1 | Loss=0.178872 | Recon=0.165962 | DynH=0.010428 | DynC=0.021650
+Epoch 545 | K= 512 | Batch=  1 | Loss=0.168634 | Recon=0.156469 | DynH=0.009778 | DynC=0.020420
+Epoch 546 | K= 512 | Batch=  1 | Loss=0.159850 | Recon=0.147867 | DynH=0.009609 | DynC=0.020123
+Epoch 547 | K= 512 | Batch=  1 | Loss=0.195348 | Recon=0.180015 | DynH=0.012603 | DynC=0.025625
+Epoch 548 | K= 512 | Batch=  1 | Loss=0.204556 | Recon=0.188658 | DynH=0.012777 | DynC=0.026685
+Epoch 549 | K= 512 | Batch=  1 | Loss=0.200390 | Recon=0.186738 | DynH=0.010981 | DynC=0.022912
+Epoch 550 | K= 512 | Batch=  1 | Loss=0.186476 | Recon=0.174299 | DynH=0.009706 | DynC=0.020473
+Epoch 551 | K= 512 | Batch=  1 | Loss=0.159163 | Recon=0.148966 | DynH=0.008187 | DynC=0.017118
+Epoch 552 | K= 512 | Batch=  1 | Loss=0.178073 | Recon=0.163318 | DynH=0.011423 | DynC=0.024941
+Epoch 553 | K= 512 | Batch=  1 | Loss=0.160406 | Recon=0.148369 | DynH=0.009684 | DynC=0.020200
+Epoch 554 | K= 512 | Batch=  1 | Loss=0.155523 | Recon=0.143673 | DynH=0.009456 | DynC=0.019918
+Epoch 555 | K= 512 | Batch=  1 | Loss=0.150750 | Recon=0.139348 | DynH=0.008947 | DynC=0.019225
+Epoch 556 | K= 512 | Batch=  1 | Loss=0.160289 | Recon=0.147740 | DynH=0.009681 | DynC=0.021226
+Epoch 557 | K= 512 | Batch=  1 | Loss=0.157980 | Recon=0.145629 | DynH=0.009842 | DynC=0.020764
+Epoch 558 | K= 512 | Batch=  1 | Loss=0.151453 | Recon=0.139639 | DynH=0.009392 | DynC=0.019872
+Epoch 559 | K= 512 | Batch=  1 | Loss=0.154745 | Recon=0.143206 | DynH=0.009593 | DynC=0.019242
+Epoch 560 | K= 512 | Batch=  1 | Loss=0.178996 | Recon=0.164528 | DynH=0.011791 | DynC=0.024220
+Epoch 561 | K= 512 | Batch=  1 | Loss=0.178441 | Recon=0.165710 | DynH=0.010228 | DynC=0.021371
+Epoch 562 | K= 512 | Batch=  1 | Loss=0.141567 | Recon=0.132125 | DynH=0.007770 | DynC=0.015777
+Epoch 563 | K= 512 | Batch=  1 | Loss=0.144307 | Recon=0.134467 | DynH=0.008079 | DynC=0.016448
+Epoch 564 | K= 512 | Batch=  1 | Loss=0.154197 | Recon=0.143241 | DynH=0.008829 | DynC=0.018379
+Epoch 565 | K= 512 | Batch=  1 | Loss=0.137164 | Recon=0.128086 | DynH=0.007227 | DynC=0.015265
+Epoch 566 | K= 512 | Batch=  1 | Loss=0.143510 | Recon=0.133468 | DynH=0.007886 | DynC=0.016928
+Epoch 567 | K= 512 | Batch=  1 | Loss=0.150056 | Recon=0.138783 | DynH=0.008571 | DynC=0.019118
+Epoch 568 | K= 512 | Batch=  1 | Loss=0.133825 | Recon=0.125024 | DynH=0.007065 | DynC=0.014777
+Epoch 569 | K= 512 | Batch=  1 | Loss=0.158918 | Recon=0.145241 | DynH=0.011578 | DynC=0.022723
+Epoch 570 | K= 512 | Batch=  1 | Loss=0.132921 | Recon=0.124497 | DynH=0.007313 | DynC=0.013923
+Epoch 571 | K= 512 | Batch=  1 | Loss=0.197172 | Recon=0.179369 | DynH=0.013909 | DynC=0.030042
+Epoch 572 | K= 512 | Batch=  1 | Loss=0.169627 | Recon=0.157393 | DynH=0.010002 | DynC=0.020467
+Epoch 573 | K= 512 | Batch=  1 | Loss=0.161949 | Recon=0.149820 | DynH=0.009549 | DynC=0.020439
+Epoch 574 | K= 512 | Batch=  1 | Loss=0.176779 | Recon=0.164341 | DynH=0.010016 | DynC=0.020870
+Epoch 575 | K= 512 | Batch=  1 | Loss=0.151750 | Recon=0.140747 | DynH=0.008840 | DynC=0.018469
+Epoch 576 | K= 512 | Batch=  1 | Loss=0.140099 | Recon=0.130553 | DynH=0.007919 | DynC=0.015925
+Epoch 577 | K= 512 | Batch=  1 | Loss=0.158049 | Recon=0.146081 | DynH=0.009625 | DynC=0.020085
+Epoch 578 | K= 512 | Batch=  1 | Loss=0.175411 | Recon=0.161213 | DynH=0.010990 | DynC=0.024000
+Epoch 579 | K= 512 | Batch=  1 | Loss=0.179523 | Recon=0.167276 | DynH=0.010140 | DynC=0.020439
+Epoch 580 | K= 512 | Batch=  1 | Loss=0.151051 | Recon=0.141059 | DynH=0.008194 | DynC=0.016707
+Epoch 581 | K= 512 | Batch=  1 | Loss=0.190395 | Recon=0.175954 | DynH=0.011187 | DynC=0.024409
+Epoch 582 | K= 512 | Batch=  1 | Loss=0.150895 | Recon=0.140176 | DynH=0.008695 | DynC=0.017959
+Epoch 583 | K= 512 | Batch=  1 | Loss=0.164256 | Recon=0.151892 | DynH=0.009730 | DynC=0.020835
+Epoch 584 | K= 512 | Batch=  1 | Loss=0.189764 | Recon=0.173956 | DynH=0.012459 | DynC=0.026633
+Epoch 585 | K= 512 | Batch=  1 | Loss=0.178752 | Recon=0.167460 | DynH=0.009001 | DynC=0.018982
+Epoch 586 | K= 512 | Batch=  1 | Loss=0.155867 | Recon=0.145707 | DynH=0.008320 | DynC=0.016993
+Epoch 587 | K= 512 | Batch=  1 | Loss=0.146447 | Recon=0.135694 | DynH=0.009035 | DynC=0.017892
+Epoch 588 | K= 512 | Batch=  1 | Loss=0.152224 | Recon=0.141985 | DynH=0.008366 | DynC=0.017133
+Epoch 589 | K= 512 | Batch=  1 | Loss=0.158489 | Recon=0.147729 | DynH=0.008503 | DynC=0.018118
+Epoch 590 | K= 512 | Batch=  1 | Loss=0.153435 | Recon=0.142394 | DynH=0.009264 | DynC=0.018377
+Epoch 591 | K= 512 | Batch=  1 | Loss=0.138014 | Recon=0.128166 | DynH=0.008301 | DynC=0.016375
+Epoch 592 | K= 512 | Batch=  1 | Loss=0.168887 | Recon=0.154762 | DynH=0.011025 | DynC=0.023840
+Epoch 593 | K= 512 | Batch=  1 | Loss=0.151271 | Recon=0.140512 | DynH=0.008998 | DynC=0.017919
+Epoch 594 | K= 512 | Batch=  1 | Loss=0.177080 | Recon=0.162960 | DynH=0.011133 | DynC=0.023787
+Epoch 595 | K= 512 | Batch=  1 | Loss=0.160817 | Recon=0.148347 | DynH=0.010230 | DynC=0.020848
+Epoch 596 | K= 512 | Batch=  1 | Loss=0.147979 | Recon=0.136668 | DynH=0.009877 | DynC=0.018672
+Epoch 597 | K= 512 | Batch=  1 | Loss=0.159938 | Recon=0.147837 | DynH=0.009736 | DynC=0.020307
+Epoch 598 | K= 512 | Batch=  1 | Loss=0.135137 | Recon=0.125272 | DynH=0.008460 | DynC=0.016348
+Epoch 599 | K= 512 | Batch=  1 | Loss=0.187546 | Recon=0.172136 | DynH=0.012053 | DynC=0.025998
+Epoch 600 | K= 512 | Batch=  1 | Loss=0.163686 | Recon=0.151086 | DynH=0.010058 | DynC=0.021177
+Epoch 601 | K= 512 | Batch=  1 | Loss=0.171128 | Recon=0.159319 | DynH=0.009425 | DynC=0.019847
+Epoch 602 | K= 512 | Batch=  1 | Loss=0.166841 | Recon=0.154685 | DynH=0.009789 | DynC=0.020397
+Epoch 603 | K= 512 | Batch=  1 | Loss=0.153624 | Recon=0.142859 | DynH=0.008460 | DynC=0.018146
+Epoch 604 | K= 512 | Batch=  1 | Loss=0.131180 | Recon=0.122567 | DynH=0.007562 | DynC=0.014200
+Epoch 605 | K= 512 | Batch=  1 | Loss=0.164016 | Recon=0.150975 | DynH=0.010192 | DynC=0.022004
+Epoch 606 | K= 512 | Batch=  1 | Loss=0.146624 | Recon=0.136169 | DynH=0.008714 | DynC=0.017424
+Epoch 607 | K= 512 | Batch=  1 | Loss=0.171651 | Recon=0.159694 | DynH=0.009324 | DynC=0.020184
+Epoch 608 | K= 512 | Batch=  1 | Loss=0.143013 | Recon=0.132885 | DynH=0.008150 | DynC=0.016996
+Epoch 609 | K= 512 | Batch=  1 | Loss=0.177988 | Recon=0.162277 | DynH=0.012199 | DynC=0.026542
+Epoch 610 | K= 512 | Batch=  1 | Loss=0.149508 | Recon=0.139418 | DynH=0.008044 | DynC=0.016962
+Epoch 611 | K= 512 | Batch=  1 | Loss=0.144505 | Recon=0.134520 | DynH=0.008143 | DynC=0.016714
+Epoch 612 | K= 512 | Batch=  1 | Loss=0.150462 | Recon=0.140172 | DynH=0.008171 | DynC=0.017310
+Epoch 613 | K= 512 | Batch=  1 | Loss=0.135486 | Recon=0.126064 | DynH=0.007720 | DynC=0.015755
+Epoch 614 | K= 512 | Batch=  1 | Loss=0.164973 | Recon=0.151022 | DynH=0.011506 | DynC=0.023299
+Epoch 615 | K= 512 | Batch=  1 | Loss=0.139227 | Recon=0.129362 | DynH=0.008159 | DynC=0.016468
+Epoch 616 | K= 512 | Batch=  1 | Loss=0.161739 | Recon=0.147602 | DynH=0.011038 | DynC=0.023860
+Epoch 617 | K= 512 | Batch=  1 | Loss=0.219256 | Recon=0.202094 | DynH=0.013165 | DynC=0.029058
+Epoch 618 | K= 512 | Batch=  1 | Loss=0.149152 | Recon=0.139235 | DynH=0.007616 | DynC=0.016787
+Epoch 619 | K= 512 | Batch=  1 | Loss=0.201601 | Recon=0.188411 | DynH=0.009796 | DynC=0.022462
+Epoch 620 | K= 512 | Batch=  1 | Loss=0.185058 | Recon=0.173158 | DynH=0.008299 | DynC=0.020480
+Epoch 621 | K= 512 | Batch=  1 | Loss=0.159567 | Recon=0.149805 | DynH=0.007121 | DynC=0.016674
+Epoch 622 | K= 512 | Batch=  1 | Loss=0.159676 | Recon=0.149097 | DynH=0.008105 | DynC=0.017916
+Epoch 623 | K= 512 | Batch=  1 | Loss=0.167757 | Recon=0.156744 | DynH=0.008464 | DynC=0.018639
+Epoch 624 | K= 512 | Batch=  1 | Loss=0.148733 | Recon=0.137138 | DynH=0.009722 | DynC=0.019301
+Epoch 625 | K= 512 | Batch=  1 | Loss=0.135769 | Recon=0.126094 | DynH=0.008186 | DynC=0.016076
+Epoch 626 | K= 512 | Batch=  1 | Loss=0.185441 | Recon=0.171246 | DynH=0.011076 | DynC=0.023960
+Epoch 627 | K= 512 | Batch=  1 | Loss=0.167399 | Recon=0.156487 | DynH=0.008113 | DynC=0.018579
+Epoch 628 | K= 512 | Batch=  1 | Loss=0.140316 | Recon=0.130518 | DynH=0.008285 | DynC=0.016284
+Epoch 629 | K= 512 | Batch=  1 | Loss=0.182677 | Recon=0.167964 | DynH=0.010857 | DynC=0.025083
+Epoch 630 | K= 512 | Batch=  1 | Loss=0.151977 | Recon=0.140932 | DynH=0.008767 | DynC=0.018584
+Epoch 631 | K= 512 | Batch=  1 | Loss=0.152116 | Recon=0.142763 | DynH=0.007084 | DynC=0.015872
+Epoch 632 | K= 512 | Batch=  1 | Loss=0.149250 | Recon=0.135141 | DynH=0.006257 | DynC=0.013898
+Epoch 633 | K= 512 | Batch=  1 | Loss=0.148960 | Recon=0.135045 | DynH=0.006251 | DynC=0.013628
+Epoch 634 | K= 512 | Batch=  1 | Loss=0.159073 | Recon=0.142632 | DynH=0.006923 | DynC=0.016564
+Epoch 635 | K= 512 | Batch=  1 | Loss=0.147054 | Recon=0.133922 | DynH=0.005763 | DynC=0.012997
+Epoch 636 | K= 512 | Batch=  1 | Loss=0.143718 | Recon=0.129940 | DynH=0.005624 | DynC=0.012667
+Epoch 637 | K= 512 | Batch=  1 | Loss=0.147795 | Recon=0.134072 | DynH=0.005717 | DynC=0.012669
+Epoch 638 | K= 512 | Batch=  1 | Loss=0.166328 | Recon=0.148422 | DynH=0.007139 | DynC=0.017253
+Epoch 639 | K= 512 | Batch=  1 | Loss=0.149538 | Recon=0.137090 | DynH=0.005177 | DynC=0.012095
+Epoch 640 | K= 512 | Batch=  1 | Loss=0.138024 | Recon=0.127274 | DynH=0.004330 | DynC=0.010476
+Epoch 641 | K= 512 | Batch=  1 | Loss=0.134477 | Recon=0.123238 | DynH=0.004455 | DynC=0.010626
+Epoch 642 | K= 512 | Batch=  1 | Loss=0.150021 | Recon=0.136262 | DynH=0.005411 | DynC=0.013421
+Epoch 643 | K= 512 | Batch=  1 | Loss=0.131481 | Recon=0.121335 | DynH=0.004080 | DynC=0.009697
+Epoch 644 | K= 512 | Batch=  1 | Loss=0.140333 | Recon=0.128459 | DynH=0.004645 | DynC=0.011551
+Epoch 645 | K= 512 | Batch=  1 | Loss=0.131251 | Recon=0.120343 | DynH=0.004280 | DynC=0.010175
+Epoch 646 | K= 512 | Batch=  1 | Loss=0.137266 | Recon=0.124828 | DynH=0.004714 | DynC=0.011900
+Epoch 647 | K= 512 | Batch=  1 | Loss=0.130905 | Recon=0.119731 | DynH=0.004262 | DynC=0.010455
+Epoch 648 | K= 512 | Batch=  1 | Loss=0.142265 | Recon=0.129270 | DynH=0.004926 | DynC=0.012592
+Epoch 649 | K= 512 | Batch=  1 | Loss=0.147883 | Recon=0.133318 | DynH=0.005440 | DynC=0.014221

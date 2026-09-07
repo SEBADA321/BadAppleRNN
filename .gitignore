@@ -1,0 +1,10 @@
+.venv/**
+frames/**
+save/**
+**/__pycache__/**
+**.toml
+/*.mp4
+model.py
+training.py
+dataset.py
+save/**
