@@ -96,7 +96,7 @@ Training Setup:
 2. **Learned Temporal Scaffolding (`TrainingTableEmbeddings`)**:
    Backpropagating end-to-end through 6,573 steps from epoch 1 is computationally intractable and suffers from severe gradient vanishing/exploding. Learned latent tables provide local initializations $(h_t, c_t)$ at arbitrary timestamps, allowing parallel randomized segment training.
 3. **Hybrid Optimization (AdamW + Muon)**:
-   - **AdamW** ($\text{LR} = 1\times 10^{-5}, \text{weight\_decay} = 10^{-3}$) optimizes the frame decoder and embedding tables.
+   - **AdamW** ($\text{LR} = 1\times 10^{-5}, \text{weight decay} = 10^{-3}$) optimizes the frame decoder and embedding tables.
    - **Muon** ($\text{LR} = 5\times 10^{-3}, \text{momentum} = 0.95$) optimizes the recurrent gate matrices $W_h$ using matrix orthogonalization.
 
 ---
@@ -115,25 +115,43 @@ Curriculum Horizon (K=2 → 512)
 
 ### 1. Progressive Horizon Curriculum
 Training begins with short local steps ($K=2$) and doubles systematically:
-$$K \in \{2, 4, 8, 16, 32, 64, 128, 256, 512\}$$
+
+$$
+K \in \{2, 4, 8, 16, 32, 64, 128, 256, 512\}
+$$
+
 Every curriculum transition introduces a predictable jump in loss as the recurrent model is forced to maintain stability over larger unrolls before adapting.
 
 ### 2. State Perturbation Training
 To prevent the model from learning a brittle 1D trajectory that fails when slightly perturbed, Gaussian noise ($\sigma = 0.005$) is added to the latent state input before each recurrent step:
-$$\hat{z}_{t+1} = F(z_t + \epsilon), \quad \epsilon \sim \mathcal{N}(0, \sigma^2 I)$$
+
+$$
+\hat{z}_{t+1} = F(z_t + \epsilon), \quad \epsilon \sim \mathcal{N}(0, \sigma^2 I)
+$$
+
 The loss is computed between clean predicted states and ground-truth table states. This trains the transition function $F$ to act as a contractive map that pulls nearby states back toward the valid trajectory.
 
 ### 3. Second-Difference Acceleration Regularization
 Directly penalizing velocity ($\|h_{t+1} - h_t\|$) encourages the trajectory to freeze. Instead, we penalize the discrete second derivative (acceleration / jitter):
-$$\mathcal{L}_{\text{smooth}} = \frac{1}{K-1} \sum_{t} \left( \|h_{t+2} - 2h_{t+1} + h_t\|_2^2 + \|c_{t+2} - 2c_{t+1} + c_t\|_2^2 \right)$$
+
+$$
+\mathcal{L}_{\text{smooth}} = \frac{1}{K-1} \sum_{t} \left( \|h_{t+2} - 2h_{t+1} + h_t\|_2^2 + \|c_{t+2} - 2c_{t+1} + c_t\|_2^2 \right)
+$$
+
 This enforces a smooth trajectory across latent space without constraining speed.
 
 ### 4. Periodic Optimizer Momentum Attenuation
 When the curriculum doubles the rollout horizon $K$, accumulated gradient momentum from shorter horizons can act as stale inertia. Every 10 epochs, momentum buffers in both AdamW and Muon are attenuated by a factor of $0.2$:
-$$m \leftarrow 0.2 \times m$$
+
+$$
+m \leftarrow 0.2 \times m
+$$
 
 ### 5. Final Composite Loss Objective
-$$\mathcal{L}_{\text{total}} = 1.0 \cdot \mathcal{L}_{\text{dyn\_h}} + 1.0 \cdot \mathcal{L}_{\text{dyn\_c}} + \mathcal{L}_{\text{smooth}} + 0.2 \cdot \mathcal{L}_{\text{recon}}$$
+
+$$
+\mathcal{L}_{\text{total}} = 1.0 \cdot \mathcal{L}_{\text{dyn}, h} + 1.0 \cdot \mathcal{L}_{\text{dyn}, c} + \mathcal{L}_{\text{smooth}} + 0.2 \cdot \mathcal{L}_{\text{recon}}
+$$
 
 ---
 
